@@ -4,7 +4,7 @@
     "home_page_url": "https://petoulemonde.github.io/blog/",
     "feed_url": "https://petoulemonde.github.io/blog/feed_json_created.json",
     "description": "Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes d\u00e9couvertes informatiques",
-    "icon": "docs/assets/intelligence-artificielle.png",
+    "icon": "https://github.com/petoulemonde/blog/tree/master/docs/assets/intelligence-artificielle.png",
     "authors": [
         {
             "name": "Pierre-Etienne Toulemonde"
@@ -18,8 +18,8 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-12-19T12:42:49.949454+00:00",
-            "date_published": "2025-12-19T12:42:49.949454+00:00",
+            "date_modified": "2025-12-19T12:50:52.731061+00:00",
+            "date_published": "2025-12-19T12:50:52.731061+00:00",
             "authors": [],
             "tags": null
         },
@@ -29,8 +29,8 @@
             "title": "Blog",
             "content_html": "<h1>Blog</h1>",
             "image": null,
-            "date_modified": "2025-12-19T12:42:49.940473+00:00",
-            "date_published": "2025-12-19T12:42:49.940473+00:00",
+            "date_modified": "2025-12-19T12:50:52.718941+00:00",
+            "date_published": "2025-12-19T12:50:52.718941+00:00",
             "authors": [],
             "tags": null
         },
@@ -40,18 +40,18 @@
             "title": "Welcome to MkDocs",
             "content_html": "<h1>Welcome to MkDocs</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>\n<li>`mk...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-12-19T12:42:49.938453+00:00",
-            "date_published": "2025-12-19T12:42:49.938453+00:00",
+            "date_modified": "2025-12-19T12:50:52.715943+00:00",
+            "date_published": "2025-12-19T12:50:52.715943+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical--le-reboot-de-mkdocs-material/",
-            "url": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical--le-reboot-de-mkdocs-material/",
-            "title": "Zensical : le reboot de mkdocs-material",
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical---le-reboot-de-mkdocs-material/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical---le-reboot-de-mkdocs-material/",
+            "title": "Zensical - le reboot de mkdocs-material",
             "content_html": "Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilit\u00e9 d'utilisation-personnalisation. Il prend la suite de Mkdocs-material. C'est un logiciel \u00e0 garder en vue dans un futur proche.",
-            "image": "https://petoulemonde.github.io/blog/logo_zensical.png",
-            "date_modified": "2025-12-19T00:00:00+00:00",
+            "image": "https://petoulemonde.github.io/blog/./logo_zensical.png",
+            "date_modified": "2025-12-20T00:00:00+00:00",
             "date_published": "2025-12-19T00:00:00+00:00",
             "authors": [
                 {
