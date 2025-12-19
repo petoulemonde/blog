@@ -3,7 +3,7 @@ site_name: Blog de Pierre-Etienne
 site_url: https://petoulemonde.github.io/blog
 site_author: Pierre-Etienne Toulemonde
 site_description: >-
-  Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes nouveautés informatiques
+  Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes découvertes informatiques
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2025 Pierre-Etienne Toulemonde
@@ -60,6 +60,9 @@ theme:
   favicon: assets/intelligence-artificielle.png
   logo: assets/intelligence-artificielle.png
 
+markdown_extensions:
+  - md_in_html
+
 # Plugins
 plugins:
   - blog
@@ -71,7 +74,7 @@ plugins:
         as_update: date.updated
         datetime_format: "%Y-%m-%d"
         default_timezone: Europe/Paris
-      image: docs/assets/intelligence-artificielle.png
+      image: https://petoulemonde.github.io/blog/assets/intelligence-artificielle_128-128px.jpg
   - search
 
 # Additionnal configuration
