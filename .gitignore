@@ -11,3 +11,6 @@ wheels/
 
 # VSCode workspace
 *.code-workspace
+
+# Mkdocs' generated outputs
+site/
