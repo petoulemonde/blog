@@ -1,0 +1,79 @@
+# Project information
+site_name: Blog de Pierre-Etienne
+site_url: https://petoulemonde.github.io/blog
+site_author: Pierre-Etienne Toulemonde
+site_description: >-
+  Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes nouveautés informatiques
+
+# Copyright
+copyright: Copyright &copy; 2016 - 2025 Pierre-Etienne Toulemonde
+
+# Configuration
+theme:
+  name: material
+  features:
+    # - content.action.edit
+    # - content.action.view
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+    - navigation.expand
+    # - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.top
+    # - navigation.tracking
+    # - search.highlight
+    # - search.share
+    # - search.suggest
+    # - toc.follow
+    # - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  favicon: assets/intelligence-artificielle.png
+  logo: assets/intelligence-artificielle.png
+
+# Plugins
+plugins:
+  #- blog
+  #- rss
+  #- search
+
+# Additionnal configuration
+extra:
+  social:
+    - icon: fontawesome/solid/blog
+      link: https://penseecomplexe.substack.com/
+    - icon: fontawesome/solid/code
+      link: https://petoulemonde.github.io/
+    - icon: fontawesome/brands/github
+      link: https://github.com/petoulemonde/
+
+# Navigation
