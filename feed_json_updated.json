@@ -4,7 +4,7 @@
     "home_page_url": "https://petoulemonde.github.io/blog/",
     "feed_url": "https://petoulemonde.github.io/blog/feed_json_updated.json",
     "description": "Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes d\u00e9couvertes informatiques",
-    "icon": "https://github.com/petoulemonde/blog/blob/34492eb79d71c881580d345f4b45d3e4897a4a22/docs/assets/intelligence-artificielle.png",
+    "icon": "https://petoulemonde.github.io/blog/assets/intelligence-artificielle.png",
     "authors": [
         {
             "name": "Pierre-Etienne Toulemonde"
@@ -17,7 +17,7 @@
             "url": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical---le-reboot-de-mkdocs-material/",
             "title": "Zensical - le reboot de mkdocs-material",
             "content_html": "Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilit\u00e9 d'utilisation-personnalisation. Il prend la suite de Mkdocs-material. C'est un logiciel \u00e0 garder en vue dans un futur proche.",
-            "image": "https://petoulemonde.github.io/blog/blog/posts/Zensical le reboot de mkdocs-material/logo_zensical.png",
+            "image": "https://petoulemonde.github.io/blog/blog/posts/2025/12/19/Zensical_le_reboot_de_mkdocs-material/logo_zensical.png",
             "date_modified": "2025-12-20T00:00:00+00:00",
             "date_published": "2025-12-19T00:00:00+00:00",
             "authors": [
@@ -33,8 +33,8 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-12-19T13:01:40.228652+00:00",
-            "date_published": "2025-12-19T13:01:40.228652+00:00",
+            "date_modified": "2025-12-19T13:28:07.139580+00:00",
+            "date_published": "2025-12-19T13:28:07.139580+00:00",
             "authors": [],
             "tags": null
         },
@@ -44,8 +44,8 @@
             "title": "Blog",
             "content_html": "<h1>Blog</h1>",
             "image": null,
-            "date_modified": "2025-12-19T13:01:40.219653+00:00",
-            "date_published": "2025-12-19T13:01:40.219653+00:00",
+            "date_modified": "2025-12-19T13:28:07.128550+00:00",
+            "date_published": "2025-12-19T13:28:07.128550+00:00",
             "authors": [],
             "tags": null
         },
@@ -55,8 +55,8 @@
             "title": "Welcome to MkDocs",
             "content_html": "<h1>Welcome to MkDocs</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>\n<li>`mk...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-12-19T13:01:40.216651+00:00",
-            "date_published": "2025-12-19T13:01:40.216651+00:00",
+            "date_modified": "2025-12-19T13:28:07.125552+00:00",
+            "date_published": "2025-12-19T13:28:07.125552+00:00",
             "authors": [],
             "tags": null
         }
