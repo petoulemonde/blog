@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Blog de Pierre-Etienne</title>
+    <description>Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes découvertes informatiques</description>
+    <link>https://petoulemonde.github.io/blog/</link>
+    <atom:link href="https://petoulemonde.github.io/blog/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Pierre-Etienne Toulemonde</managingEditor>
+    
+    <language>en</language>
+
+    
+    <pubDate>Fri, 19 Dec 2025 10:57:43 -0000</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 10:57:43 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.7</generator>
+
+    
+    
+    <image>
+      <url>docs/assets/intelligence-artificielle.png</url>
+      <title>Blog de Pierre-Etienne</title>
+      <link>https://petoulemonde.github.io/blog/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>2025</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
+      <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
+      <pubDate>Fri, 19 Dec 2025 10:57:44 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
+      <link>https://petoulemonde.github.io/blog/blog/</link>
+      <pubDate>Fri, 19 Dec 2025 10:57:44 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Welcome to MkDocs</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Welcome to MkDocs&lt;/h1&gt;
+&lt;p&gt;For full documentation visit &lt;a href=&#34;https://www.mkdocs.org&#34;&gt;mkdocs.org&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project.&lt;/li&gt;
+&lt;li&gt;`mk...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://petoulemonde.github.io/blog/</link>
+      <pubDate>Fri, 19 Dec 2025 10:57:44 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Zensical : le reboot de mkdocs-material</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilité d&#39;utilisation-personnalisation. Il prend la suite de Mkdocs-material. C&#39;est un logiciel à garder en vue dans un futur proche.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2025/12/19/zensical--le-reboot-de-mkdocs-material/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/19/zensical--le-reboot-de-mkdocs-material/</guid>
+      
+      <enclosure url="https://petoulemonde.github.io/blog/logo_zensical.png" type="image/png" length="3540" />
+      
+    </item>
+    
+  </channel>
+</rss>
