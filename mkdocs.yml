@@ -23,12 +23,12 @@ theme:
     # - header.autohide
     - navigation.expand
     # - navigation.footer
-    - navigation.indexes
+    # - navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    - navigation.sections
+    # - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     # - navigation.top
@@ -88,3 +88,14 @@ extra:
       link: https://github.com/petoulemonde/
 
 # Navigation
+nav: 
+- Accueil: 
+  - Bienvenue 👋: index.md
+  - About me: about.md
+- Gestion de projet:
+  - projet/index.md
+- Data:
+  - data/index.md
+- Informatique:
+  - coding/index.md
+- Blog: blog/index.md

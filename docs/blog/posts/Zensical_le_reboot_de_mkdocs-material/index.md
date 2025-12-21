@@ -1,13 +1,12 @@
 ---
 title: "Zensical_le_reboot_de_mkdocs-material"
 description: "Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilité d'utilisation-personnalisation. Il prend la suite de Mkdocs-material. C'est un logiciel à garder en vue dans un futur proche."
-image: "blog/2025/12/19/Zensical_le_reboot_de_mkdocs-material/logo_zensical.png"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-12-19
   updated: 2025-12-20
 tags:
-  - informatique
+  - coding
 ---
 # Zensical : le reboot de mkdocs-material
 
