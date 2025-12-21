@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Fri, 19 Dec 2025 14:20:30 -0000</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 14:20:30 -0000</lastBuildDate>
+    <pubDate>Sun, 21 Dec 2025 15:28:49 -0000</pubDate>
+    <lastBuildDate>Sun, 21 Dec 2025 15:28:49 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -32,27 +32,6 @@
     
     
     <item>
-      <title>Zensical_le_reboot_de_mkdocs-material</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilité d&#39;utilisation-personnalisation. Il prend la suite de Mkdocs-material. C&#39;est un logiciel à garder en vue dans un futur proche.</description>
-      <link>https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/</link>
-      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/</guid>
-      
-      <enclosure url="https://petoulemonde.github.io/blog/blog/2025/12/19/Zensical_le_reboot_de_mkdocs-material/logo_zensical.png" type="image/png" length="None" />
-      
-    </item>
-    
-    <item>
       <title>2025</title>
       
       
@@ -60,7 +39,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
-      <pubDate>Fri, 19 Dec 2025 14:20:31 +0000</pubDate>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
@@ -68,17 +47,124 @@
     </item>
     
     <item>
-      <title>Blog</title>
+      <title>Les GAFAM dans l&#39;éducation : Bonne ou mauvaise idée ?</title>
       
       
       
       
-      <description>&lt;h1&gt;Blog&lt;/h1&gt;</description>
-      <link>https://petoulemonde.github.io/blog/blog/</link>
-      <pubDate>Fri, 19 Dec 2025 14:20:31 +0000</pubDate>
+      <description>&lt;h1&gt;Les GAFAM dans l&#39;éducation : Bonne ou mauvaise idée ?&lt;/h1&gt;
+&lt;p&gt;date: 15/04/2025&lt;/p&gt;
+&lt;p&gt;Les GAFAM s&#39;intéressent de plus en plus à l&#39;éducation du futur et s&#39;intègre de plus...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/les%20GAFAM%20dans%20l%27%C3%A9ducation%20Bonne%20ou%20mauvaise%20id%C3%A9e/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/les%20GAFAM%20dans%20l%27%C3%A9ducation%20Bonne%20ou%20mauvaise%20id%C3%A9e/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Le Mythe du Travailleur Augmenté : Décryptage et Réalité</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Le Mythe du Travailleur Augmenté : Décryptage et Réalité&lt;/h1&gt;
+&lt;p&gt;date: 18/02/2025&lt;/p&gt;
+&lt;p&gt;L&#39;expression &#34;travailleur augmenté&#34; est sur toutes les bouches. Mais qu&#39;est-ce q...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/PC-Linkedin%20-%20Le%20mythe%20du%20travailleur%20augment%C3%A9%20%28et%20quelles%20%C3%A9tapes%20pour%20y%20arriver%29/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/PC-Linkedin%20-%20Le%20mythe%20du%20travailleur%20augment%C3%A9%20%28et%20quelles%20%C3%A9tapes%20pour%20y%20arriver%29/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi faire une veille</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Pourquoi faire une veille&lt;/h1&gt;
+&lt;p&gt;date: 02/01/2025&lt;/p&gt;
+&lt;p&gt;Actuellement, j’ai une veille qui court sur plusieurs sujets et depuis quelques temps déjà. Cette veille me pre...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/PC%20-%20Pourquoi%20faire%20une%20veille/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/PC%20-%20Pourquoi%20faire%20une%20veille/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mener sa vie comme un projet - article</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Mener sa vie comme un projet - article&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Comment la gestion d&#39;entreprise peut nous guider dans notre développement personnel ?&lt;/em&gt;
+date: 11/06/2025&lt;/p&gt;
+&lt;p&gt;On peut fa...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/Mener%20sa%20vie%20comme%20un%20projet%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/Mener%20sa%20vie%20comme%20un%20projet%20-%20article/</guid>
+      
+    </item>
+    
+    <item>
+      <title>La clarté mentale - article</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;La clarté mentale - article&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Qu&#39;est-ce que la clarté mentale et pourquoi est-ce important ?&lt;/em&gt;
+date: 30/04/2025&lt;/p&gt;
+&lt;p&gt;Dans le monde professionnel, on entend souve...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/La%20clart%C3%A9%20mentale%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/La%20clart%C3%A9%20mentale%20-%20article/</guid>
+      
+    </item>
+    
+    <item>
+      <title>De la connaissance à l&#39;essence</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;De la connaissance à l&#39;essence&lt;/h1&gt;
+&lt;p&gt;date: 07/01/2025&lt;/p&gt;
+&lt;p&gt;L&#39;essentiel des travailleurs d&#39;aujourd&#39;hui sont des &lt;em&gt;knowledge worker&lt;/em&gt;, autrement dit des professionnels d...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/Article%20-%20De%20la%20connaissance%20%C3%A0%20l%27essentiel%20Comment%20le%20knowledge%20work%20%C3%A9volue/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/Article%20-%20De%20la%20connaissance%20%C3%A0%20l%27essentiel%20Comment%20le%20knowledge%20work%20%C3%A9volue/</guid>
+      
+    </item>
+    
+    <item>
+      <title>A la découverte de l&#39;hygiène digitale</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;A la découverte de l&#39;hygiène digitale&lt;/h1&gt;
+&lt;p&gt;date: 23/04/2024&lt;/p&gt;
+&lt;h2&gt;Contexte initial&lt;/h2&gt;
+&lt;p&gt;A l&#39;occasion d&#39;une lecture, j&#39;ai découvert les termes d&#39;&lt;em&gt;hygiène digitale&lt;/em&gt;. In...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/projet/A%20la%20d%C3%A9couverte%20de%20l%27hygi%C3%A8ne%20digitale/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/A%20la%20d%C3%A9couverte%20de%20l%27hygi%C3%A8ne%20digitale/</guid>
       
     </item>
     
@@ -95,11 +181,205 @@
 &lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project.&lt;/li&gt;
 &lt;li&gt;`mk...&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <link>https://petoulemonde.github.io/blog/</link>
-      <pubDate>Fri, 19 Dec 2025 14:20:31 +0000</pubDate>
+      <link>https://petoulemonde.github.io/blog/projet/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce qu&#39;une &#34;data&#34; ?</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Qu&#39;est-ce qu&#39;une &#34;data&#34; ?&lt;/h1&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Nous parlons de &#34;data&#34; a tous les niveaux de notre vie :
+- dans notre travail avec le &lt;em&gt;data-driven&lt;/em&gt;, la poursuit...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/data/Qu%27est-ce%20qu%27une%20data/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/data/Qu%27est-ce%20qu%27une%20data/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Welcome to MkDocs</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Welcome to MkDocs&lt;/h1&gt;
+&lt;p&gt;For full documentation visit &lt;a href=&#34;https://www.mkdocs.org&#34;&gt;mkdocs.org&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Commands&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project.&lt;/li&gt;
+&lt;li&gt;`mk...&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://petoulemonde.github.io/blog/data/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/data/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Votre premier voyage de classe au pays du CLI - blog</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Votre premier voyage de classe au pays du CLI - blog&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;A la découverte du CLI #2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Vous avez sûrement déjà entendu parler du terminal d&#39;un ordinateur, mais ...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Votre%20premier%20voyage%20de%20classe%20au%20pays%20du%20CLI%20-%20blog/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Votre%20premier%20voyage%20de%20classe%20au%20pays%20du%20CLI%20-%20blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Vibe Coding : la dernière couche d&#39;abstraction en programmation</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Vibe Coding : la dernière couche d&#39;abstraction en programmation&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Qu&#39;est-ce que le vibe coding ?&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Le vibe Coding&lt;/h2&gt;
+&lt;p&gt;Le vibe coding est l&#39;approche de créati...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Vibe%20Coding%20la%20derni%C3%A8re%20couche%20d%27abstraction%20en%20programmation/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Vibe%20Coding%20la%20derni%C3%A8re%20couche%20d%27abstraction%20en%20programmation/</guid>
+      
+    </item>
+    
+    <item>
+      <title>The Power of Pandas Plots: Backends</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;The Power of Pandas Plots: Backends&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Create interactive graphics from Pandas effortlessly&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Context&lt;/h2&gt;
+&lt;p&gt;Python has a multitude of visualization packages, t...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/The%20Power%20of%20Pandas%20Plots%20Backends%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/The%20Power%20of%20Pandas%20Plots%20Backends%20-%20article/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Scoop : un gestionnaire de logiciel Windows très utile !</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Scoop : un gestionnaire de logiciel Windows très utile !&lt;/h1&gt;
+&lt;p&gt;*Qu&#39;est-ce qu&#39;un gestionnaire de package, et pourquoi nous devrions tous utiliser un gestionnaire ...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Scoop%20un%20gestionnaire%20de%20logiciel%20Windows%20tr%C3%A8s%20utile%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Scoop%20un%20gestionnaire%20de%20logiciel%20Windows%20tr%C3%A8s%20utile%20-%20article/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi apprendre à coder</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Pourquoi apprendre à coder&lt;/h1&gt;
+&lt;p&gt;Pourquoi apprendre à coder est encore très utile aujourd&#39;hui et dans notre vie ? 
+A l&#39;heure où l&#39;IA peut tout faire, apprendre a...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Pourquoi%20apprendre%20%C3%A0%20coder/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Pourquoi%20apprendre%20%C3%A0%20coder/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon&lt;/h1&gt;
+&lt;p&gt;date: 27/01/2025&lt;/p&gt;
+&lt;p&gt;Every programmer knows that language&#39;s or package&#39;s&#39;docume...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Master%20the%20Python%27s%20documentation%20to%20make%20it%20an%20ally%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Master%20the%20Python%27s%20documentation%20to%20make%20it%20an%20ally%20-%20article/</guid>
+      
+    </item>
+    
+    <item>
+      <title>La blockchain en santé</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;La blockchain en santé&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Quelle place pour la blockchain dans notre système de soin actuel ?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;La blockchain a fait grand bruit dans les années 2010. Avec l...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</guid>
+      
+    </item>
+    
+    <item>
+      <title>L&#39;importance de la liberté numérique</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;L&#39;importance de la liberté numérique&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Qu&#39;est-ce la liberté numérique et pourquoi y investir du temps ?&lt;/em&gt;
+date: 29/01/2025&lt;/p&gt;
+&lt;p&gt;Le monde s&#39;informatise de plus en...&lt;/p&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/L%27importance%20de%20la%20libert%C3%A9%20num%C3%A9rique/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/L%27importance%20de%20la%20libert%C3%A9%20num%C3%A9rique/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Full guide to Build a professionna lportfolio with GitHub Pages</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;Full guide to Build a professionna lportfolio with GitHub Pages&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;How to develop your image as a developer or data worker with a quality portfolio&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;My p...&lt;/h2&gt;</description>
+      <link>https://petoulemonde.github.io/blog/coding/Full%20Guide%20to%20Building%20a%20Professional%20Portfolio%20with%20Python%2C%20Markdown%2C%20Git%2C%20and%20GitHub%20Pages%20-%20article/</link>
+      <pubDate>Sun, 21 Dec 2025 15:28:49 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Full%20Guide%20to%20Building%20a%20Professional%20Portfolio%20with%20Python%2C%20Markdown%2C%20Git%2C%20and%20GitHub%20Pages%20-%20article/</guid>
       
     </item>
     
