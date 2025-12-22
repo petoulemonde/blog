@@ -18,107 +18,19 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.939651+00:00",
-            "date_published": "2025-12-21T15:28:49.939651+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/les%20GAFAM%20dans%20l%27%C3%A9ducation%20Bonne%20ou%20mauvaise%20id%C3%A9e/",
-            "url": "https://petoulemonde.github.io/blog/projet/les%20GAFAM%20dans%20l%27%C3%A9ducation%20Bonne%20ou%20mauvaise%20id%C3%A9e/",
-            "title": "Les GAFAM dans l'\u00e9ducation : Bonne ou mauvaise id\u00e9e ?",
-            "content_html": "<h1>Les GAFAM dans l'\u00e9ducation : Bonne ou mauvaise id\u00e9e ?</h1>\n<p>date: 15/04/2025</p>\n<p>Les GAFAM s'int\u00e9ressent de plus en plus \u00e0 l'\u00e9ducation du futur et s'int\u00e8gre de plus...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.913566+00:00",
-            "date_published": "2025-12-21T15:28:49.913566+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/PC-Linkedin%20-%20Le%20mythe%20du%20travailleur%20augment%C3%A9%20%28et%20quelles%20%C3%A9tapes%20pour%20y%20arriver%29/",
-            "url": "https://petoulemonde.github.io/blog/projet/PC-Linkedin%20-%20Le%20mythe%20du%20travailleur%20augment%C3%A9%20%28et%20quelles%20%C3%A9tapes%20pour%20y%20arriver%29/",
-            "title": "Le Mythe du Travailleur Augment\u00e9 : D\u00e9cryptage et R\u00e9alit\u00e9",
-            "content_html": "<h1>Le Mythe du Travailleur Augment\u00e9 : D\u00e9cryptage et R\u00e9alit\u00e9</h1>\n<p>date: 18/02/2025</p>\n<p>L'expression \"travailleur augment\u00e9\" est sur toutes les bouches. Mais qu'est-ce q...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.902007+00:00",
-            "date_published": "2025-12-21T15:28:49.902007+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/PC%20-%20Pourquoi%20faire%20une%20veille/",
-            "url": "https://petoulemonde.github.io/blog/projet/PC%20-%20Pourquoi%20faire%20une%20veille/",
-            "title": "Pourquoi faire une veille",
-            "content_html": "<h1>Pourquoi faire une veille</h1>\n<p>date: 02/01/2025</p>\n<p>Actuellement, j\u2019ai une veille qui court sur plusieurs sujets et depuis quelques temps d\u00e9j\u00e0. Cette veille me pre...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.891156+00:00",
-            "date_published": "2025-12-21T15:28:49.891156+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/Mener%20sa%20vie%20comme%20un%20projet%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/projet/Mener%20sa%20vie%20comme%20un%20projet%20-%20article/",
-            "title": "Mener sa vie comme un projet - article",
-            "content_html": "<h1>Mener sa vie comme un projet - article</h1>\n<p><em>Comment la gestion d'entreprise peut nous guider dans notre d\u00e9veloppement personnel ?</em>\ndate: 11/06/2025</p>\n<p>On peut fa...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.877876+00:00",
-            "date_published": "2025-12-21T15:28:49.877876+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/La%20clart%C3%A9%20mentale%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/projet/La%20clart%C3%A9%20mentale%20-%20article/",
-            "title": "La clart\u00e9 mentale - article",
-            "content_html": "<h1>La clart\u00e9 mentale - article</h1>\n<p><em>Qu'est-ce que la clart\u00e9 mentale et pourquoi est-ce important ?</em>\ndate: 30/04/2025</p>\n<p>Dans le monde professionnel, on entend souve...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.867320+00:00",
-            "date_published": "2025-12-21T15:28:49.867320+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/Article%20-%20De%20la%20connaissance%20%C3%A0%20l%27essentiel%20Comment%20le%20knowledge%20work%20%C3%A9volue/",
-            "url": "https://petoulemonde.github.io/blog/projet/Article%20-%20De%20la%20connaissance%20%C3%A0%20l%27essentiel%20Comment%20le%20knowledge%20work%20%C3%A9volue/",
-            "title": "De la connaissance \u00e0 l'essence",
-            "content_html": "<h1>De la connaissance \u00e0 l'essence</h1>\n<p>date: 07/01/2025</p>\n<p>L'essentiel des travailleurs d'aujourd'hui sont des <em>knowledge worker</em>, autrement dit des professionnels d...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.855738+00:00",
-            "date_published": "2025-12-21T15:28:49.855738+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/A%20la%20d%C3%A9couverte%20de%20l%27hygi%C3%A8ne%20digitale/",
-            "url": "https://petoulemonde.github.io/blog/projet/A%20la%20d%C3%A9couverte%20de%20l%27hygi%C3%A8ne%20digitale/",
-            "title": "A la d\u00e9couverte de l'hygi\u00e8ne digitale",
-            "content_html": "<h1>A la d\u00e9couverte de l'hygi\u00e8ne digitale</h1>\n<p>date: 23/04/2024</p>\n<h2>Contexte initial</h2>\n<p>A l'occasion d'une lecture, j'ai d\u00e9couvert les termes d'<em>hygi\u00e8ne digitale</em>. In...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.844595+00:00",
-            "date_published": "2025-12-21T15:28:49.844595+00:00",
+            "date_modified": "2025-12-22T14:32:29.812803+00:00",
+            "date_published": "2025-12-22T14:32:29.812803+00:00",
             "authors": [],
             "tags": null
         },
         {
             "id": "https://petoulemonde.github.io/blog/projet/",
             "url": "https://petoulemonde.github.io/blog/projet/",
-            "title": "Welcome to MkDocs",
-            "content_html": "<h1>Welcome to MkDocs</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>\n<li>`mk...</li>\n</ul>",
+            "title": "Livre de gestion de projet \ud83d\udccb",
+            "content_html": "<h1>Livre de gestion de projet \ud83d\udccb</h1>\n<h2>Bienvenue \u270c\ufe0f</h2>\n<p>Bienvenue sur mon livre de gestion de projet ! </p>\n<p><strong>Que trouverez-vous dans cette partie ?</strong>\nToutes mes connai...</p>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.827334+00:00",
-            "date_published": "2025-12-21T15:28:49.827334+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/data/Qu%27est-ce%20qu%27une%20data/",
-            "url": "https://petoulemonde.github.io/blog/data/Qu%27est-ce%20qu%27une%20data/",
-            "title": "Qu'est-ce qu'une \"data\" ?",
-            "content_html": "<h1>Qu'est-ce qu'une \"data\" ?</h1>\n<h2>Introduction</h2>\n<p>Nous parlons de \"data\" a tous les niveaux de notre vie :\n- dans notre travail avec le <em>data-driven</em>, la poursuit...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.821314+00:00",
-            "date_published": "2025-12-21T15:28:49.821314+00:00",
+            "date_modified": "2025-12-22T14:32:29.662534+00:00",
+            "date_published": "2025-12-22T14:32:29.662534+00:00",
             "authors": [],
             "tags": null
         },
@@ -128,74 +40,8 @@
             "title": "Welcome to MkDocs",
             "content_html": "<h1>Welcome to MkDocs</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>\n<li>`mk...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.808767+00:00",
-            "date_published": "2025-12-21T15:28:49.808767+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/Votre%20premier%20voyage%20de%20classe%20au%20pays%20du%20CLI%20-%20blog/",
-            "url": "https://petoulemonde.github.io/blog/coding/Votre%20premier%20voyage%20de%20classe%20au%20pays%20du%20CLI%20-%20blog/",
-            "title": "Votre premier voyage de classe au pays du CLI - blog",
-            "content_html": "<h1>Votre premier voyage de classe au pays du CLI - blog</h1>\n<p><em>A la d\u00e9couverte du CLI #2</em></p>\n<p>Vous avez s\u00fbrement d\u00e9j\u00e0 entendu parler du terminal d'un ordinateur, mais ...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.804781+00:00",
-            "date_published": "2025-12-21T15:28:49.804781+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/Vibe%20Coding%20la%20derni%C3%A8re%20couche%20d%27abstraction%20en%20programmation/",
-            "url": "https://petoulemonde.github.io/blog/coding/Vibe%20Coding%20la%20derni%C3%A8re%20couche%20d%27abstraction%20en%20programmation/",
-            "title": "Vibe Coding : la derni\u00e8re couche d'abstraction en programmation",
-            "content_html": "<h1>Vibe Coding : la derni\u00e8re couche d'abstraction en programmation</h1>\n<p><em>Qu'est-ce que le vibe coding ?</em></p>\n<h2>Le vibe Coding</h2>\n<p>Le vibe coding est l'approche de cr\u00e9ati...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.775961+00:00",
-            "date_published": "2025-12-21T15:28:49.775961+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/The%20Power%20of%20Pandas%20Plots%20Backends%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/coding/The%20Power%20of%20Pandas%20Plots%20Backends%20-%20article/",
-            "title": "The Power of Pandas Plots: Backends",
-            "content_html": "<h1>The Power of Pandas Plots: Backends</h1>\n<p><em>Create interactive graphics from Pandas effortlessly</em></p>\n<h2>Context</h2>\n<p>Python has a multitude of visualization packages, t...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.763447+00:00",
-            "date_published": "2025-12-21T15:28:49.763447+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/Scoop%20un%20gestionnaire%20de%20logiciel%20Windows%20tr%C3%A8s%20utile%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/coding/Scoop%20un%20gestionnaire%20de%20logiciel%20Windows%20tr%C3%A8s%20utile%20-%20article/",
-            "title": "Scoop : un gestionnaire de logiciel Windows tr\u00e8s utile !",
-            "content_html": "<h1>Scoop : un gestionnaire de logiciel Windows tr\u00e8s utile !</h1>\n<p>*Qu'est-ce qu'un gestionnaire de package, et pourquoi nous devrions tous utiliser un gestionnaire ...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.741723+00:00",
-            "date_published": "2025-12-21T15:28:49.741723+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/Pourquoi%20apprendre%20%C3%A0%20coder/",
-            "url": "https://petoulemonde.github.io/blog/coding/Pourquoi%20apprendre%20%C3%A0%20coder/",
-            "title": "Pourquoi apprendre \u00e0 coder",
-            "content_html": "<h1>Pourquoi apprendre \u00e0 coder</h1>\n<p>Pourquoi apprendre \u00e0 coder est encore tr\u00e8s utile aujourd'hui et dans notre vie ? \nA l'heure o\u00f9 l'IA peut tout faire, apprendre a...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.719291+00:00",
-            "date_published": "2025-12-21T15:28:49.719291+00:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/coding/Master%20the%20Python%27s%20documentation%20to%20make%20it%20an%20ally%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/coding/Master%20the%20Python%27s%20documentation%20to%20make%20it%20an%20ally%20-%20article/",
-            "title": "Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon",
-            "content_html": "<h1>Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon</h1>\n<p>date: 27/01/2025</p>\n<p>Every programmer knows that language's or package's'docume...</p>",
-            "image": null,
-            "date_modified": "2025-12-21T15:28:49.684609+00:00",
-            "date_published": "2025-12-21T15:28:49.684609+00:00",
+            "date_modified": "2025-12-22T14:32:29.604728+00:00",
+            "date_published": "2025-12-22T14:32:29.604728+00:00",
             "authors": [],
             "tags": null
         },
@@ -203,33 +49,231 @@
             "id": "https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/",
             "url": "https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/",
             "title": "La blockchain en sant\u00e9",
-            "content_html": "<h1>La blockchain en sant\u00e9</h1>\n<p><em>Quelle place pour la blockchain dans notre syst\u00e8me de soin actuel ?</em></p>\n<p>La blockchain a fait grand bruit dans les ann\u00e9es 2010. Avec l...</p>",
+            "content_html": "<p>---La blockchain en sant\u00e9\ntitle: \"La blockchain en sant\u00e9\"\ndescription: \"Quelle place pour la blockchain dans notre syst\u00e8me de soin actuel ?\"\nauthor: \"Pierre-...</p>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.662443+00:00",
-            "date_published": "2025-12-21T15:28:49.662443+00:00",
+            "date_modified": "2025-12-22T14:32:29.425237+00:00",
+            "date_published": "2025-12-22T14:32:29.425237+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://petoulemonde.github.io/blog/coding/L%27importance%20de%20la%20libert%C3%A9%20num%C3%A9rique/",
-            "url": "https://petoulemonde.github.io/blog/coding/L%27importance%20de%20la%20libert%C3%A9%20num%C3%A9rique/",
-            "title": "L'importance de la libert\u00e9 num\u00e9rique",
-            "content_html": "<h1>L'importance de la libert\u00e9 num\u00e9rique</h1>\n<p><em>Qu'est-ce la libert\u00e9 num\u00e9rique et pourquoi y investir du temps ?</em>\ndate: 29/01/2025</p>\n<p>Le monde s'informatise de plus en...</p>",
+            "id": "https://petoulemonde.github.io/blog/coding/",
+            "url": "https://petoulemonde.github.io/blog/coding/",
+            "title": "Livre de prorgrammation \ud83e\uddd1\u200d\ud83d\udcbb",
+            "content_html": "<h1>Livre de prorgrammation \ud83e\uddd1\u200d\ud83d\udcbb</h1>\n<h2>Bienvenue \u270c\ufe0f</h2>\n<p>Bienvenue sur mon livre de programmation ! </p>\n<p><strong>Que trouverez-vous sur ce site ?</strong>\nToutes mes connaissances en ...</p>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.640737+00:00",
-            "date_published": "2025-12-21T15:28:49.640737+00:00",
+            "date_modified": "2025-12-22T14:32:29.306754+00:00",
+            "date_published": "2025-12-22T14:32:29.306754+00:00",
             "authors": [],
             "tags": null
         },
         {
-            "id": "https://petoulemonde.github.io/blog/coding/Full%20Guide%20to%20Building%20a%20Professional%20Portfolio%20with%20Python%2C%20Markdown%2C%20Git%2C%20and%20GitHub%20Pages%20-%20article/",
-            "url": "https://petoulemonde.github.io/blog/coding/Full%20Guide%20to%20Building%20a%20Professional%20Portfolio%20with%20Python%2C%20Markdown%2C%20Git%2C%20and%20GitHub%20Pages%20-%20article/",
-            "title": "Full guide to Build a professionna lportfolio with GitHub Pages",
-            "content_html": "<h1>Full guide to Build a professionna lportfolio with GitHub Pages</h1>\n<p><em>How to develop your image as a developer or data worker with a quality portfolio</em></p>\n<h2>My p...</h2>",
+            "id": "https://petoulemonde.github.io/blog/blog/",
+            "url": "https://petoulemonde.github.io/blog/blog/",
+            "title": "Blog",
+            "content_html": "<h1>Blog</h1>\n<p>Bienvue sur mon blog, l\u00e0 o\u00f9 je poste des billets de technologie, d'id\u00e9es, de d\u00e9couverte. Bonne lecture \ud83d\udcd6</p>",
             "image": null,
-            "date_modified": "2025-12-21T15:28:49.623170+00:00",
-            "date_published": "2025-12-21T15:28:49.623170+00:00",
+            "date_modified": "2025-12-22T14:32:29.265374+00:00",
+            "date_published": "2025-12-22T14:32:29.265374+00:00",
             "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/about/",
+            "url": "https://petoulemonde.github.io/blog/about/",
+            "title": "About me \ud83d\udc68",
+            "content_html": "<h1>About me</h1>\n<h2>Qui suis-je ?</h2>\n<p>Mon pr\u00e9nom, je crois que vous l'avez d\u00e9j\u00e0 \ud83d\ude09</p>\n<p>Je suis Pierre-Etienne, passionn\u00e9 de technologie, bidouilleur software \u00e0 mes heures...</p>",
+            "image": null,
+            "date_modified": "2025-12-22T14:32:29.261751+00:00",
+            "date_published": "2025-12-22T14:32:29.261751+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/",
+            "url": "https://petoulemonde.github.io/blog/",
+            "title": "Bienvenue \ud83d\udc4b",
+            "content_html": "<h1>Bienvenue \ud83d\udc4b</h1>\n<p>Welcome on my blog, le blog de Pierre-Etienne.</p>\n<h2>Pr\u00e9sentation du projet</h2>\n<p>Vous \u00eates-vous d\u00e9j\u00e0 demand\u00e9 ce qu'il restera de vos travaux quand v...</p>",
+            "image": null,
+            "date_modified": "2025-12-22T14:32:29.255963+00:00",
+            "date_published": "2025-12-22T14:32:29.255963+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/cloture/",
+            "url": "https://petoulemonde.github.io/blog/projet/cloture/",
+            "title": "Retour d'exp\u00e9rience",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de retour d'exp\u00e9rience",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/conception/",
+            "url": "https://petoulemonde.github.io/blog/projet/conception/",
+            "title": "Conception",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de conception",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/m%C3%A9t%C3%A9o_projet/",
+            "url": "https://petoulemonde.github.io/blog/projet/m%C3%A9t%C3%A9o_projet/",
+            "title": "M\u00e9t\u00e9o de projet",
+            "content_html": "Comprendre en quoi consiste une m\u00e9t\u00e9o de proejt et comment la r\u00e9diger",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/r%C3%A9alisation/",
+            "url": "https://petoulemonde.github.io/blog/projet/r%C3%A9alisation/",
+            "title": "R\u00e9alisation",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de r\u00e9alisation",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/cadrage/",
+            "url": "https://petoulemonde.github.io/blog/projet/cadrage/",
+            "title": "Cadrage",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de cadrage",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/",
+            "url": "https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/",
+            "title": "Gap analysis",
+            "content_html": "Apprendre \u00e0 identifier le gap entre l'\u00e9tat actuel et l'\u00e9tat souhait\u00e9",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/",
+            "url": "https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/",
+            "title": "Note de cadrage",
+            "content_html": "Comprendre en quoi consiste la note de cadrage",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/",
+            "url": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/",
+            "title": "Pr\u00e9-projet",
+            "content_html": "<h1>Pr\u00e9-projet</h1>\n<p>La phase de pr\u00e9-projet consiste \u00e0 mesurer la pertinence du projet avant de le lancer. </p>\n<p>Chaque projet repr\u00e9sente un investissement de ressource...</p>",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/",
+            "url": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/",
+            "title": "Business case",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de pr\u00e9-projet",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/",
+            "title": "NVIDIA cr\u00e9e le confidentiel computing",
+            "content_html": "NVIDIA cr\u00e9e le confidential computing, une technologie logicielle qui permet d'assurer la s\u00e9curit\u00e9 des donn\u00e9es pendant leur utilisation. Cette techno est notamment int\u00e9ressante dans l'IA o\u00f9 rapidit\u00e9 et s\u00e9curit\u00e9 sont 2 piliers essentielles.",
+            "image": null,
+            "date_modified": "2025-12-21T00:00:00+00:00",
+            "date_published": "2025-12-21T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/20/qubes/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/20/qubes/",
+            "title": "Qubes",
+            "content_html": "D\u00e9couvrez Qubes OS, un OS r\u00e9volutionnaire en mati\u00e8re de cybers\u00e9curit\u00e9",
+            "image": null,
+            "date_modified": "2025-12-20T00:00:00+00:00",
+            "date_published": "2025-12-20T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/",
+            "title": "Zensical_le_reboot_de_mkdocs-material",
+            "content_html": "Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilit\u00e9 d'utilisation-personnalisation. Il prend la suite de Mkdocs-material. C'est un logiciel \u00e0 garder en vue dans un futur proche.",
+            "image": null,
+            "date_modified": "2025-12-20T00:00:00+00:00",
+            "date_published": "2025-12-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
             "tags": null
         }
     ]
