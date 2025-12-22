@@ -1,5 +1,14 @@
-# Pourquoi faire une veille
-date: 02/01/2025
+---
+title: "Pourquoi faire une veille ?"
+description: ""
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-01-13
+  updated: 2025-12-10
+tags:
+  - projet
+---
+# Pourquoi faire une veille ?
 
 Actuellement, j’ai une veille qui court sur plusieurs sujets et depuis quelques temps déjà. Cette veille me prend du temps, je suis à presque 2 heures par semaine pour la dépiler complètement. C’est lorsque je dépilais machinalement les articles de ma veille un vendredi après-midi, alors que j’avais pas franchement envie, que je me suis posé cette question : **ma veille m’apporte-t-elle réellement quelque chose à, ou bien je la fais par automatisme et parce les autres recommandent de la faire ?**
 

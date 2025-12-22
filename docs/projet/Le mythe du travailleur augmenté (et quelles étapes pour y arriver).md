@@ -1,5 +1,13 @@
+---
+title: "Le Mythe du Travailleur Augmenté : Décryptage et Réalité"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-02-18
+  updated: 2025-12-10
+tags:
+  - projet
+---
 # Le Mythe du Travailleur Augmenté : Décryptage et Réalité
-date: 18/02/2025
 
 L'expression "travailleur augmenté" est sur toutes les bouches. Mais qu'est-ce que ça veut vraiment dire ? Pour certains, c'est simplement utiliser l'IA (mais laquelle, comment, pourquoi ?). Pour d'autres, c'est carrément une IA qui devient un travailleur autonome. Autant dire qu'on nage dans le flou.
 
@@ -61,4 +69,3 @@ Les étapes sont très larges j'en suis conscient, pour 2 raisons :
 - ce sont des grands phares qui permettent de voir si on est sur la bonne route ou pas : se connecter sur ChatGPT pour demander une image ne doit pas être la fin du chemin, il faut aller plus loin et mettre en place ses propres flux plus complexes.
 
 En route vers ton propre chemin d'"augmentation" !
-

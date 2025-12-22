@@ -1,6 +1,14 @@
+---
+title: "Dynamic GitHb Pages with Panel"
+description: "How do you create interactive and client-side GitHub Pages ? The first stone in an ambitious edifice ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2024-10-04
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Dynamic GitHb Pages with Panel
-*How do you create interactive and client-side GitHub Pages ? The first stone in an ambitious edifice*
-date: 04/10/2024
 
 ## Introduction
 

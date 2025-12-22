@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Livre de gestion de projet 📋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Bienvenue ✌️
+Bienvenue sur mon livre de gestion de projet ! 
 
-## Commands
+**Que trouverez-vous dans cette partie ?**
+Toutes mes connaissances en gestion de projet, formalisées pour ce format de site web/livre numéérique.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+**Par où commencer ?**
+Vous êtes ici dans l'avant-propos du livre. Vous pouvez explorer ce livre de 2 façons : 
+- dans l'ordre que je vous propose dans la barre de navigation de gauche,
+- en piquant les sujets qui vous intéressent dans la barre de navigation.
 
-## Project layout
+Ecoutez-vous, et bonne lecture 🙂
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Plan du livre
+## Les 5 temps du projet
+- [Pré-projet](préprojet.md)
+- [Cadrage](cadrage.md)
+- [Conception](conception.md)
+- [Réalisation](réalisation.md)
+- [Retour d'expérience](retour_expérience.md)
+

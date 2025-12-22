@@ -1,5 +1,14 @@
+---
+title: "Vibe coding : la dernière couche d'abstraction en programmation"
+description: "Qu'est-ce que le vibe coding ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-06-18
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Vibe Coding : la dernière couche d'abstraction en programmation
-*Qu'est-ce que le vibe coding ?*
 
 ## Le vibe Coding
 Le vibe coding est l'approche de création d'applications consistant à dicter en quelques phrases l'application qu'on souhaite obtenir à une IA pour que cette dernière réalise le logiciel. Dans cette approche, les tâches de structuration de l'application, de codage et de test de l'application passe entre les mains de l'IA. Avec cette approche, la personne décrit sa vision au modèle qui la convertie en réalité en rédigeant le code sous-jacent. 

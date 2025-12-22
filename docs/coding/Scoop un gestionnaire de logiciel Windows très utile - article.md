@@ -1,6 +1,14 @@
+---
+title: "Scoop : un gestionnaire de logiciel Windows très utile !"
+description: "Qu'est-ce qu'un gestionnaire de package, et pourquoi nous devrions tous utiliser un gestionnaire de package ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-05-07
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Scoop : un gestionnaire de logiciel Windows très utile !
-*Qu'est-ce qu'un gestionnaire de package, et pourquoi nous devrions tous utiliser un gestionnaire de package ?*
-date: 07/05/2025
 
 *Note : Cette article traite de l'importance d'avoir un gestionnaire de package et des avantages d'en avoir un. Scoop est un gestionnaire de package Windows. Sur Linux, les gestionnaires de package sont intégrés aux distros, donc lisez l'article pour les idées et demandez à Google quel est le gestionnaire de package de votre distro si vous ne l'avez pas encore identifié (même si je doute que vous soyez sous Linux et que vous n'utilisiez pas déjà votre gestionnaire de package 😉). Pour Mac, LE gestionnaire de package est brew, et les arguments généraux pour installer et utiliser brew reste exactement les mêmes que pour Scoop (les 2 solutions varieront évidement quant aux fonctionnalités spécifiques).*
 

@@ -1,5 +1,14 @@
+---
+title: "Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon"
+description: "Every programmer knows that language's or package's'documentation is an essential part of coding, and the Python language is no exception. In this article, I compare the different ways of accessing to Python's documentation, from the traditionnal and simpliest tool like `help()` and `pydoc()` to the most visual and organized tools like Sphinx, Mkdodcstring and offline documentation softwares."
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-01-27
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Mastering Python Docs: Turn the Official Documentation into Your Secret Weapon
-date: 27/01/2025
 
 Every programmer knows that language's or package's'documentation is an essential part of coding, and the Python language is no exception.
 In this article, I compare the different ways of accessing to Python's documentation, from the traditionnal and simpliest tool like `help()` and `pydoc()` to the most visual and organized tools like Sphinx, Mkdodcstring and offline documentation softwares.

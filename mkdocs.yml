@@ -23,12 +23,12 @@ theme:
     # - header.autohide
     - navigation.expand
     # - navigation.footer
-    # - navigation.indexes
+    - navigation.indexes
     # - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
-    # - navigation.sections
+    - navigation.sections
     - navigation.tabs
     # - navigation.tabs.sticky
     # - navigation.top
@@ -89,13 +89,24 @@ extra:
 
 # Navigation
 nav: 
-- Accueil: 
-  - Bienvenue 👋: index.md
-  - About me: about.md
-- Gestion de projet:
+- Bienvenue 👋: 
+  - index.md
+  - About me 👨: about.md
+- Gestion de projet 📋:
   - projet/index.md
-- Data:
+  - Les 5 temps du projet:
+    - Pré-projet: 
+      - projet/préprojet/index.md
+      - Business case: projet/préprojet/business_case.md
+    - Cadrage: 
+      - projet/cadrage/index.md
+      - Note de cadrage: projet/cadrage/note_de_cadrage.md
+      - Gap analysis: projet/cadrage/gap_analysis.md
+    - Conception: projet/conception.md
+    - Réalisation: projet/réalisation.md
+    - Retour d'expérience: projet/cloture.md
+- Data 📊:
   - data/index.md
-- Informatique:
+- Informatique 🧑‍💻:
   - coding/index.md
 - Blog: blog/index.md

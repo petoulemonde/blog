@@ -1,5 +1,14 @@
+---La blockchain en santé
+title: "La blockchain en santé"
+description: "Quelle place pour la blockchain dans notre système de soin actuel ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-08-27
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # La blockchain en santé
-*Quelle place pour la blockchain dans notre système de soin actuel ?*
 
 La blockchain a fait grand bruit dans les années 2010. Avec l'arrivée du Bitcoin, le public a découvert cette technologie. Quinze ans plus tard, les crypto-monnaies se sont largement démocratisées, tout le monde sait globalement ce que c'est et de nouvelles blockchain apparaissent régulièrement.
 Mais au-delà du monde financier et notamment dans la santé, difficile de citer des applications connues.

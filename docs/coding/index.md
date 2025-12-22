@@ -1,4 +1,4 @@
-# Livre de prorgrammation de Pierre-Etienne 🧑‍💻
+# Livre de prorgrammation 🧑‍💻
 
 ## Bienvenue ✌️
 Bienvenue sur mon livre de programmation ! 

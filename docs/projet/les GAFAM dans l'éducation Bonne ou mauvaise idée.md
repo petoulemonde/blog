@@ -1,5 +1,14 @@
+---
+title: "Les GAFAM dans l'éducation : Bonne ou mauvaise idée ?"
+description: ""
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-04-15
+  updated: 2025-12-10
+tags:
+  - projet
+---
 # Les GAFAM dans l'éducation : Bonne ou mauvaise idée ?
-date: 15/04/2025
 
 Les GAFAM s'intéressent de plus en plus à l'éducation du futur et s'intègre de plus en plus dans l'éducation : 
 - Google identifie les sujets émergents de l'[éducation du futur](https://services.google.com/fh/files/misc/future_of_the_classroom_emerging_trends_in_k12_education.pdf) et propose des solutions logicielles pour favoriser l'éducation tel que[ Google for Education](https://edu.google.com/intl/ALL_fr/),

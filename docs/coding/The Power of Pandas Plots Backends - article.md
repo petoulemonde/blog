@@ -1,5 +1,14 @@
+---
+title: "The Power of Pandas Plot : Backends"
+description: "Create interactive graphics from Pandas effortlessly"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2024-08-30 
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # The Power of Pandas Plots: Backends
-*Create interactive graphics from Pandas effortlessly*
 
 ## Context
 

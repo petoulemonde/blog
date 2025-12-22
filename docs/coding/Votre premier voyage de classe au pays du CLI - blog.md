@@ -1,4 +1,14 @@
-# Votre premier voyage de classe au pays du CLI - blog
+---
+title: "Votre premeir voyage de classe au payx du CLI"
+description: "Vous avez sûrement déjà entendu parler du terminal d'un ordinateur, mais si vous savez cette petite fenêtre noire moche que tous les hackers utilisent dans les films ? Le terminal et par extension le CLI *(command line interface)* a super mauvaise presse, et pourtant c'est un endroit génial avec pleins de belles choses à découvrir, presque un nouveau pays avec ses us et coutumes, ses traditions. Pour vous accoutumer à ce superbe pays, je vous propose donc de partir avec moi en voyage de classe dans ce fabuleux pays !"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-06-25
+  updated: 2025-12-10
+tags:
+  - coding
+---
+# Votre premier voyage de classe au pays du CLI
 *A la découverte du CLI #2*
 
 Vous avez sûrement déjà entendu parler du terminal d'un ordinateur, mais si vous savez cette petite fenêtre noire moche que tous les hackers utilisent dans les films ? Le terminal et par extension le CLI *(command line interface)* a super mauvaise presse, et pourtant c'est un endroit génial avec pleins de belles choses à découvrir, presque un nouveau pays avec ses us et coutumes, ses traditions. 

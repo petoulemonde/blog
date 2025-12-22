@@ -1,5 +1,14 @@
+---
+title: "Towards Python package documentation 2.0?"
+description: "Proposal for specifications for multi-layer documentation"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-08-25
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Towards Python package documentation 2.0?
-*Proposal for specifications for multi-layer documentation*
 
 I previously wrote an article reviewing how Python package documentation works, from docstrings to publication: Master the Python's documentation to make it an ally - article. This article gave me a deep understanding of how package documentation works, from function docstrings to offline documentation. However, this article also highlighted several flaws in this documentation structure.
 

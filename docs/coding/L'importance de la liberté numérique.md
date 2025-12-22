@@ -1,6 +1,14 @@
+---
+title: "L'importance de la liberté numérique"
+description: "Qu'est-ce la liberté numérique et pourquoi y investir du temps ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-01-29
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # L'importance de la liberté numérique
-*Qu'est-ce la liberté numérique et pourquoi y investir du temps ?*
-date: 29/01/2025
 
 Le monde s'informatise de plus en plus, nous passons toujours plus de temps sur nos écrans, nous avons toujours plus d'appareils électroniques autour de nous et de logiciels dans notre quotidien (plusieurs applications de messagerie, de commande de nourriture, ...). Professionnellement, nous devons maitriser les nouveaux logiciels et outils pour rester compétitif sur le marché du travail et être capable de les prendre rapidement en main pour passer du temps sur les sujets à plus forte valeur ajoutée. Dans notre sphère personnelle, nous devons prendre le temps de sélectionner et d'optimiser les appareils et logiciels pour avoir un écosystème numérique riche mais facile d'usage et nécessitant un minimum d'entretien pour passer du temps à faire les choses qu'on a envie de faire, et non passer du temps à trier des photos, réorganiser nos dossiers ou trainer sur des réseaux sociaux abrutissants. Ce désencombrement numérique nous permet de nous rendre capable de sauter facilement d'un système à l'autre, être capable que notre ordinateur crash sans perdre de données et en impactant le moins possible notre capacité d'action à tous les niveaux (faire une recherche web, déclarer ses impôts). La liberté numérique, c'est ça justement : prendre conscience de notre écosystème numérique et développer un écosystème numérique riche qui nous sert et pas à l'inverse, pour passer du temps sur les choses réellement importante.
 

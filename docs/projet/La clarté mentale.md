@@ -1,6 +1,14 @@
-# La clarté mentale - article
-*Qu'est-ce que la clarté mentale et pourquoi est-ce important ?*
-date: 30/04/2025
+---
+title: "La clarté mentale"
+description: "Qu'est-ce que la clarté mentale et pourquoi est-ce important ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-04-30
+  updated: 2025-12-10
+tags:
+  - projet
+---
+# La clarté mentale
 
 Dans le monde professionnel, on entend souvent parler de soft skills (traduisible par *compétences générales* ou *compétences douces*, opposées aux hard skills ou *compétences techniques*). Les soft skills les plus courant sont la capacité à s’organiser, l'adaptabilité, l'autonomie, la discipline, la capacité à travailler en équipe. Pourtant à l'heure où nous vivons de nos idées plutôt que de nos capacités physiques, aucun soft skills n'évoque jamais la capacité à établir un raisonnement clair, limpide et intelligible. En y réfléchissant, la définition de cette compétence serait : la capacité à construire une pensée structurée et logique, que je synthétiserais par la suite en "clarté mentale" ou "clarté de pensée". Cette compétence dépasse la logique : la clarté mentale englobe une pensée lucide et intelligible, intégrant notamment la capacité à comprendre le contexte interpersonnel et intrapersonnel jusqu'à dans ses non-dits.
 

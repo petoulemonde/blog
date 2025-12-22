@@ -1,5 +1,14 @@
+---
+title: "Apprivoisez votre terminal"
+description: "A la découverte du CLI #1"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-05-28 
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Apprivoisez votre terminal
-*A la découverte du CLI #1*
 
 ## L'interface graphique
 Tout le monde connait l'Interface graphique des ordinateurs, c'est le mode d'interaction classique avec son ordinateur, smartphone, tablette. On utilise la majorité du temps la souris pour cliquer sur les icônes de son bureau, de son explorateur de fichiers ou de son explorateur d'application. 

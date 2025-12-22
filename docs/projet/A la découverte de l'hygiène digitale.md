@@ -1,5 +1,15 @@
+---
+title: "A la découverte de l'hygiène digitale"
+description: ""
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-04-23
+  updated: 2025-12-10
+tags:
+  - projet
+  - coding
+---
 # A la découverte de l'hygiène digitale
-date: 23/04/2024
 
 ## Contexte initial 
 A l'occasion d'une lecture, j'ai découvert les termes d'*hygiène digitale*. Intrigué par ce rapprochement de terme que je n'avais jamais rapproché avant, je décide d'explorer ce que cache cette expression pour le moins surprenante ! 

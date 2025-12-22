@@ -1,3 +1,13 @@
+---
+title: "Pourquoi apprendre à coder ?"
+description: ""
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-07-02
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Pourquoi apprendre à coder
 Pourquoi apprendre à coder est encore très utile aujourd'hui et dans notre vie ? 
 A l'heure où l'IA peut tout faire, apprendre a coder ne semble plus servir a rien. On parle de plus en plus de vibe coding comme de LA solution qui nous permettra de tout développer sans jamais apprendre à coder, mais est-ce une solution vraiment pérenne ? (Si vous ne savez pas ce que c'est le vibe coding, je vous renvoie vers mon article sur le sujet Vibe Coding la dernière couche d'abstraction en programmation, qui devrait vous indiquer mon camp sur la question qui nous occupe 😉).

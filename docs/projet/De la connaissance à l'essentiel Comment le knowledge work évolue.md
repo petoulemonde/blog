@@ -1,5 +1,14 @@
+---
+title: "De la connaissance à l'essence"
+description: "Coomment le knowledge work évolue ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-01-08
+  updated: 2025-12-10
+tags:
+  - projet
+---
 # De la connaissance à l'essence
-date: 07/01/2025
 
 L'essentiel des travailleurs d'aujourd'hui sont des *knowledge worker*, autrement dit des professionnels dont la plus-value est intellectuelle avant d'être mécanique (exemple : la plus-value d'un ouvrier sur une chaine de production est avant tout mécanique, par exemple mettre le volant sur l'axe de la voiture à la chaine). Avec la transformation numérique en cours et la mondialisation croissante des organisations et des marchés, le monde des *knowlege worker* change : leur plus-value n'est plus d'apporter unla bonne information au bon moment, mais de proposer une perspective pour la question posée et de savoir donner du sens aux éléments non-structurés déjà existants.
 

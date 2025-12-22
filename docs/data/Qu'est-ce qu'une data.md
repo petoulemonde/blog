@@ -1,3 +1,13 @@
+---
+title: "Qu'est-ce qu'une data"
+description: "De la définition à l'importance d'une donnée"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-10-29
+  updated: 2025-12-10
+tags:
+  - data
+---
 # Qu'est-ce qu'une "data" ?
 
 ## Introduction

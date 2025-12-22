@@ -1,6 +1,14 @@
-# Mener sa vie comme un projet - article
-*Comment la gestion d'entreprise peut nous guider dans notre développement personnel ?*
-date: 11/06/2025
+---
+title: "Mener sa vie comme un projet"
+description: "Comment la gestion d'entreprise peut nous guider dans notre développement personnel ?"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-06-11
+  updated: 2025-12-10
+tags:
+  - projet
+---
+# Mener sa vie comme un projet
 
 On peut faire un parallèle entre le développement d'entreprise et le développement personnel : 
 - L'énoncé de vision dans une entreprise correspond en développement personnel à l'étoile du nord;

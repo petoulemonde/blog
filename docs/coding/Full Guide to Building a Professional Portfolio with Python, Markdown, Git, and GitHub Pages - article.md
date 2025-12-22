@@ -1,5 +1,14 @@
+---
+title: "Full guide to Build a professionna lportfolio with GitHub Pages"
+description: "How to develop your image as a developer or data worker with a quality portfolio"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2024-11-20
+  updated: 2025-12-10
+tags:
+  - coding
+---
 # Full guide to Build a professionna lportfolio with GitHub Pages
-*How to develop your image as a developer or data worker with a quality portfolio*
 
 ## My previous portfolio
 
