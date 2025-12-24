@@ -1,3 +1,11 @@
+Notes : 
+- uv run mkdocs serve -v --livereload
+- uv run mkdocs gh-deploy -r github
+
+## 2025-12-24
+- Ajout partie Knwoledge
+- Ajout lien vers blog Substack
+
 ## 2025-12-22
 - Création du squelette de pages espace Projet
 - Remplissage de la page d'accueil

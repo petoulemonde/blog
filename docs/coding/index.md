@@ -1,4 +1,4 @@
-# Livre de prorgrammation 🧑‍💻
+# Livre de programmation 🧑‍💻
 
 ## Bienvenue ✌️
 Bienvenue sur mon livre de programmation ! 
