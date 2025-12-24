@@ -18,8 +18,8 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.812803+00:00",
-            "date_published": "2025-12-22T14:32:29.812803+00:00",
+            "date_modified": "2025-12-24T08:34:31.857518+00:00",
+            "date_published": "2025-12-24T08:34:31.857518+00:00",
             "authors": [],
             "tags": null
         },
@@ -29,8 +29,8 @@
             "title": "Livre de gestion de projet \ud83d\udccb",
             "content_html": "<h1>Livre de gestion de projet \ud83d\udccb</h1>\n<h2>Bienvenue \u270c\ufe0f</h2>\n<p>Bienvenue sur mon livre de gestion de projet ! </p>\n<p><strong>Que trouverez-vous dans cette partie ?</strong>\nToutes mes connai...</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.662534+00:00",
-            "date_published": "2025-12-22T14:32:29.662534+00:00",
+            "date_modified": "2025-12-24T08:34:31.759965+00:00",
+            "date_published": "2025-12-24T08:34:31.759965+00:00",
             "authors": [],
             "tags": null
         },
@@ -40,8 +40,8 @@
             "title": "Welcome to MkDocs",
             "content_html": "<h1>Welcome to MkDocs</h1>\n<p>For full documentation visit <a href=\"https://www.mkdocs.org\">mkdocs.org</a>.</p>\n<h2>Commands</h2>\n<ul>\n<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>\n<li>`mk...</li>\n</ul>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.604728+00:00",
-            "date_published": "2025-12-22T14:32:29.604728+00:00",
+            "date_modified": "2025-12-24T08:34:31.737966+00:00",
+            "date_published": "2025-12-24T08:34:31.737966+00:00",
             "authors": [],
             "tags": null
         },
@@ -51,19 +51,19 @@
             "title": "La blockchain en sant\u00e9",
             "content_html": "<p>---La blockchain en sant\u00e9\ntitle: \"La blockchain en sant\u00e9\"\ndescription: \"Quelle place pour la blockchain dans notre syst\u00e8me de soin actuel ?\"\nauthor: \"Pierre-...</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.425237+00:00",
-            "date_published": "2025-12-22T14:32:29.425237+00:00",
+            "date_modified": "2025-12-24T08:34:31.662248+00:00",
+            "date_published": "2025-12-24T08:34:31.662248+00:00",
             "authors": [],
             "tags": null
         },
         {
             "id": "https://petoulemonde.github.io/blog/coding/",
             "url": "https://petoulemonde.github.io/blog/coding/",
-            "title": "Livre de prorgrammation \ud83e\uddd1\u200d\ud83d\udcbb",
-            "content_html": "<h1>Livre de prorgrammation \ud83e\uddd1\u200d\ud83d\udcbb</h1>\n<h2>Bienvenue \u270c\ufe0f</h2>\n<p>Bienvenue sur mon livre de programmation ! </p>\n<p><strong>Que trouverez-vous sur ce site ?</strong>\nToutes mes connaissances en ...</p>",
+            "title": "Livre de programmation \ud83e\uddd1\u200d\ud83d\udcbb",
+            "content_html": "<h1>Livre de programmation \ud83e\uddd1\u200d\ud83d\udcbb</h1>\n<h2>Bienvenue \u270c\ufe0f</h2>\n<p>Bienvenue sur mon livre de programmation ! </p>\n<p><strong>Que trouverez-vous sur ce site ?</strong>\nToutes mes connaissances en p...</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.306754+00:00",
-            "date_published": "2025-12-22T14:32:29.306754+00:00",
+            "date_modified": "2025-12-24T08:34:31.580725+00:00",
+            "date_published": "2025-12-24T08:34:31.580725+00:00",
             "authors": [],
             "tags": null
         },
@@ -73,8 +73,8 @@
             "title": "Blog",
             "content_html": "<h1>Blog</h1>\n<p>Bienvue sur mon blog, l\u00e0 o\u00f9 je poste des billets de technologie, d'id\u00e9es, de d\u00e9couverte. Bonne lecture \ud83d\udcd6</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.265374+00:00",
-            "date_published": "2025-12-22T14:32:29.265374+00:00",
+            "date_modified": "2025-12-24T08:34:31.557724+00:00",
+            "date_published": "2025-12-24T08:34:31.557724+00:00",
             "authors": [],
             "tags": null
         },
@@ -84,8 +84,8 @@
             "title": "About me \ud83d\udc68",
             "content_html": "<h1>About me</h1>\n<h2>Qui suis-je ?</h2>\n<p>Mon pr\u00e9nom, je crois que vous l'avez d\u00e9j\u00e0 \ud83d\ude09</p>\n<p>Je suis Pierre-Etienne, passionn\u00e9 de technologie, bidouilleur software \u00e0 mes heures...</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.261751+00:00",
-            "date_published": "2025-12-22T14:32:29.261751+00:00",
+            "date_modified": "2025-12-24T08:34:31.550725+00:00",
+            "date_published": "2025-12-24T08:34:31.550725+00:00",
             "authors": [],
             "tags": null
         },
@@ -95,9 +95,39 @@
             "title": "Bienvenue \ud83d\udc4b",
             "content_html": "<h1>Bienvenue \ud83d\udc4b</h1>\n<p>Welcome on my blog, le blog de Pierre-Etienne.</p>\n<h2>Pr\u00e9sentation du projet</h2>\n<p>Vous \u00eates-vous d\u00e9j\u00e0 demand\u00e9 ce qu'il restera de vos travaux quand v...</p>",
             "image": null,
-            "date_modified": "2025-12-22T14:32:29.255963+00:00",
-            "date_published": "2025-12-22T14:32:29.255963+00:00",
+            "date_modified": "2025-12-24T08:34:31.546722+00:00",
+            "date_published": "2025-12-24T08:34:31.546722+00:00",
             "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/knowledge/",
+            "url": "https://petoulemonde.github.io/blog/knowledge/",
+            "title": "Introduction",
+            "content_html": "Introduction du livre de gestion des connaissances \ud83e\udde0",
+            "image": null,
+            "date_modified": "2025-12-24T00:00:00+01:00",
+            "date_published": "2025-12-24T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/knowledge/plan/",
+            "url": "https://petoulemonde.github.io/blog/knowledge/plan/",
+            "title": "Plan du livre",
+            "content_html": "Plan du livre partie Knwoledge management",
+            "image": null,
+            "date_modified": "2025-12-24T00:00:00+01:00",
+            "date_published": "2025-12-24T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
             "tags": null
         },
         {
@@ -239,36 +269,6 @@
             "image": null,
             "date_modified": "2025-12-21T00:00:00+00:00",
             "date_published": "2025-12-21T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/blog/2025/12/20/qubes/",
-            "url": "https://petoulemonde.github.io/blog/blog/2025/12/20/qubes/",
-            "title": "Qubes",
-            "content_html": "D\u00e9couvrez Qubes OS, un OS r\u00e9volutionnaire en mati\u00e8re de cybers\u00e9curit\u00e9",
-            "image": null,
-            "date_modified": "2025-12-20T00:00:00+00:00",
-            "date_published": "2025-12-20T00:00:00+00:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/",
-            "url": "https://petoulemonde.github.io/blog/blog/2025/12/19/zensical_le_reboot_de_mkdocs-material/",
-            "title": "Zensical_le_reboot_de_mkdocs-material",
-            "content_html": "Zensical est un logiciel de documentation en markdown et demain de blogging, avec le bon compromis facilit\u00e9 d'utilisation-personnalisation. Il prend la suite de Mkdocs-material. C'est un logiciel \u00e0 garder en vue dans un futur proche.",
-            "image": null,
-            "date_modified": "2025-12-20T00:00:00+00:00",
-            "date_published": "2025-12-19T00:00:00+00:00",
             "authors": [
                 {
                     "name": "Pierre-Etienne Toulemonde"
