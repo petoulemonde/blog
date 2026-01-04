@@ -1,4 +1,14 @@
-# Livre de programmation 🧑‍💻
+---
+title: "Introduction - Livre Informatique 🧑‍💻"
+description: "Introduction du livre Informatique 🧑‍💻"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-12-22
+  updated: 2025-12-22
+tags:
+  - coding
+---
+# Introduction - Livre Informatique 🧑‍💻
 
 ## Bienvenue ✌️
 Bienvenue sur mon livre de programmation ! 

@@ -1,5 +1,5 @@
 ---
-title: "Qubes"
+title: "Qubes - Un OS ultra-sécurisé basé sur Linux"
 description: "Découvrez Qubes OS, un OS révolutionnaire en matière de cybersécurité"
 author: "Pierre-Etienne Toulemonde"
 date:
@@ -8,7 +8,7 @@ date:
 tags:
   - coding
 ---
-# Qubes OS
+# Qubes - Un OS ultra-sécurisé basé sur Linux
 
 En matière de sécurité informatique, nous sommes aujourd'hui dans un statu quo. La plupart des gens gèrent la sécurité de leur données de la même manière : un antivirus et/ou un antimalware, un analyseur d'activité sur le système ou sur le réseau, un proxy, parfois un analyseur DNS pour bloquer des adresses connues à risques. Ces mesures sont passives, avec pour objectif d'identifier et de bloquer les attaques (comme des créneaux d'un château : c'est très efficace, mais parfois l'adversaire passe quand même). Quelques exemples qui démontrent que cette situation ne protège pas à 100% : [Hack de CCleaner en 2017](https://www.kaspersky.fr/resource-center/threats/ccleaner-malware), contenant 2 chevaux de troie; [hack de l'APHP pendant le covid](https://www.aphp.fr/actualites/lap-hp-porte-plainte-suite-une-attaque-informatique-sur-son-service-securise-de-partage#:~:text=L'Assistance%20Publique%20%2D%20H%C3%B4pitaux%20de,confirm%C3%A9e%20le%2012%20septembre%20dernier.).
 Nous sommes complétement dépendant de facteurs externes pour nous sécurité, pour lesquels parfois nous payons pour les utiliser. Nous devons nous fier à des antimenaces (antivirus, antimalwares) de sociétés commerciales. Puis nous n'avons pas d'autres lignes de défenses que ces antimenaces à notre disposition. Si notre système est corrompu, nous pouvons au mieux nous adresser à des professionnels, au pire jeter le matériel compromis et tout le matériel à risque, pour repartir d'un matériel propre, nous n'avons aucun levier réactif au niveau software/logiciel.

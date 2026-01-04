@@ -1,6 +1,6 @@
 ---
-title: "Plan du livre de gestion des connaissances 🧠"
-description: "Plan du livre partie Knwoledge management"
+title: "Plan - Livre Gestion des connaissances 🧠"
+description: "Plan du livre 'Gestion des connaissances 🧠"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-12-24
@@ -8,5 +8,5 @@ date:
 tags:
   - knowledge
 ---
-# Plan du livre
+# Plan - Livre Gestion des connaissances 🧠
 *En cours de rédaction*

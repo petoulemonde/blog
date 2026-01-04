@@ -86,6 +86,8 @@ extra:
       link: https://petoulemonde.github.io/
     - icon: fontawesome/brands/github
       link: https://github.com/petoulemonde/
+    - icon: fontawesome/solid/at
+      link: mailto:pierre-etienne.toulemonde@outlook.com
 
 # Navigation
 nav: 
@@ -105,12 +107,14 @@ nav:
     - Conception: projet/conception.md
     - Réalisation: projet/réalisation.md
     - Retour d'expérience: projet/cloture.md
-- Data 📊:
-  - data/index.md
+# - Data 📊:
+#   - data/index.md
+#   - Qu'est-ce qu'une data ?: data/Qu'est-ce qu'une data.md
 - Knowledge 🧠: 
   - Introduction: knowledge/index.md
   - Plan du livre: knowledge/plan.md
-- Informatique 🧑‍💻:
-  - coding/index.md
+# - Informatique 🧑‍💻:
+#   - coding/index.md
+#   - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
 - Blog: blog/index.md
 - Mon Blog Substack 🌐 : https://penseecomplexe.substack.com/

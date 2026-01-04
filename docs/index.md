@@ -1,3 +1,11 @@
+---
+title: "Bienvenue 👋"
+description: "Page d'accueil du blog de Pierre-Etienne"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-12-10
+  updated: 2025-12-22
+---
 # Bienvenue 👋
 
 Welcome on my blog, le blog de Pierre-Etienne.

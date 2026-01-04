@@ -1,3 +1,11 @@
+---
+title: "About me 👨"
+description: "Présentation de moi-même Pierre-Etienne, créateur et auteur de ce blog"
+author: "Pierre-Etienne Toulemonde"
+date:
+  created: 2025-12-19
+  updated: 2025-12-22
+---
 # About me
 
 ## Qui suis-je ?

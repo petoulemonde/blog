@@ -1,6 +1,6 @@
 ---
-title: "Livre de gestion des connaissances 🧠"
-description: "Introduction du livre de gestion des connaissances 🧠"
+title: "Introduction livre 'Gestion des connaissances 🧠'"
+description: "Introduction du livre 'Gestion des connaissances 🧠'"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-12-24
@@ -8,7 +8,7 @@ date:
 tags:
   - knowledge
 ---
-# Livre de gestion des connaissances 🧠
+# Introduction - Livre Gestion des connaissances 🧠
 
 ## Bienvenue ✌️
 Bienvenue sur mon livre de gestion des connaissances ! 
@@ -16,6 +16,10 @@ Bienvenue sur mon livre de gestion des connaissances !
 **Que trouverez-vous dans cette partie ?**
 
 Cette partie de mon blog recrute toutes mes connaissances, compétences et idées sur la gestion des connaissances  personnelles (réalisé par chacun et pour soit-même).
+
+**Note importante** : Ce blog porte sur le **personnal knowledge management** (management des connaissance personnelles). On distingue 2 types de knowledge management : 
+- le knowledge management inter-personnel : créer/entretenir un système pour valoriser les connaissances des individus par les autres du même groupe
+- le knowledge management intra-personnel : créer/entretenir un système pour valoriser nos connaissances personnelles.
 
 **Par où commencer ?**
 
