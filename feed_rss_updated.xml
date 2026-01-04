@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Wed, 24 Dec 2025 08:34:31 -0000</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 08:34:31 -0000</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2026 18:26:36 -0000</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2026 18:26:36 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,7 +39,7 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 18:26:37 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
@@ -47,39 +47,18 @@
     </item>
     
     <item>
-      <title>Livre de gestion de projet 📋</title>
+      <title>Introduction - Livre Data 📊</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
       
       
       
-      
-      <description>&lt;h1&gt;Livre de gestion de projet 📋&lt;/h1&gt;
-&lt;h2&gt;Bienvenue ✌️&lt;/h2&gt;
-&lt;p&gt;Bienvenue sur mon livre de gestion de projet ! &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Que trouverez-vous dans cette partie ?&lt;/strong&gt;
-Toutes mes connai...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/projet/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Welcome to MkDocs</title>
-      
-      
-      
-      
-      <description>&lt;h1&gt;Welcome to MkDocs&lt;/h1&gt;
-&lt;p&gt;For full documentation visit &lt;a href=&#34;https://www.mkdocs.org&#34;&gt;mkdocs.org&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Commands&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;mkdocs new [dir-name]&lt;/code&gt; - Create a new project.&lt;/li&gt;
-&lt;li&gt;`mk...&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Introduction du livre Data 📊</description>
       <link>https://petoulemonde.github.io/blog/data/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 18:26:36 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/data/</guid>
@@ -97,7 +76,7 @@ title: &#34;La blockchain en santé&#34;
 description: &#34;Quelle place pour la blockchain dans notre système de soin actuel ?&#34;
 author: &#34;Pierre-...&lt;/p&gt;</description>
       <link>https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <pubDate>Sun, 04 Jan 2026 18:26:36 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</guid>
@@ -105,73 +84,78 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Livre de programmation 🧑‍💻</title>
+      <title>Articles par tags</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
       
       
       
-      
-      <description>&lt;h1&gt;Livre de programmation 🧑‍💻&lt;/h1&gt;
-&lt;h2&gt;Bienvenue ✌️&lt;/h2&gt;
-&lt;p&gt;Bienvenue sur mon livre de programmation ! &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Que trouverez-vous sur ce site ?&lt;/strong&gt;
-Toutes mes connaissances en p...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/coding/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <description>Ensemble des pages du site &amp; blog par tag</description>
+      <link>https://petoulemonde.github.io/blog/tags/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0100</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/tags/</guid>
       
     </item>
     
     <item>
-      <title>Blog</title>
+      <title>Cookiecutter - Un outil 🐍 pour structurer ses projets</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
       
       
       
-      
-      <description>&lt;h1&gt;Blog&lt;/h1&gt;
-&lt;p&gt;Bienvue sur mon blog, là où je poste des billets de technologie, d&#39;idées, de découverte. Bonne lecture 📖&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/blog/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <description>La structure de dossier d&#39;un projet Python est un élément important pour un projet pérenne, assurant lisibilité et réutilisabilité du projet. Découvrez Cookiecutter-data-science, un pacakge python qui propose une structure de dossier robuste et répétable dans tous vos projets.</description>
+      <link>https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</guid>
       
     </item>
     
     <item>
-      <title>About me 👨</title>
+      <title>Apache Superset - Le Tableau open source</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
       
       
       
-      
-      <description>&lt;h1&gt;About me&lt;/h1&gt;
-&lt;h2&gt;Qui suis-je ?&lt;/h2&gt;
-&lt;p&gt;Mon prénom, je crois que vous l&#39;avez déjà 😉&lt;/p&gt;
-&lt;p&gt;Je suis Pierre-Etienne, passionné de technologie, bidouilleur software à mes heures...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/about/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <description>Découvrez Apache Superset, un projet open source et de niveau professionnel pour la business intelligence, alternative aux outils comme PowerBI ou Tableau</description>
+      <link>https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/about/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</guid>
       
     </item>
     
     <item>
-      <title>Bienvenue 👋</title>
+      <title>Devbox - Pour des environnements de développement portable &amp; isolé</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
       
       
       
-      
-      <description>&lt;h1&gt;Bienvenue 👋&lt;/h1&gt;
-&lt;p&gt;Welcome on my blog, le blog de Pierre-Etienne.&lt;/p&gt;
-&lt;h2&gt;Présentation du projet&lt;/h2&gt;
-&lt;p&gt;Vous êtes-vous déjà demandé ce qu&#39;il restera de vos travaux quand v...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/</link>
-      <pubDate>Wed, 24 Dec 2025 08:34:31 +0000</pubDate>
+      <description>La gestion d&#39;environnements de développement est un pilier du développement. Beaucoup d&#39;outils existent mais trouvent vite leur limites. Devbox est une alternative riche, qui pourrait bien modifier profondément le domaine des environnements virtuels.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</guid>
       
     </item>
     
@@ -185,7 +169,7 @@ Toutes mes connaissances en p...&lt;/p&gt;</description>
       
       
       
-      <description>Introduction du livre de gestion des connaissances 🧠</description>
+      <description>Introduction du livre &#39;Gestion des connaissances 🧠&#39;</description>
       <link>https://petoulemonde.github.io/blog/knowledge/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
@@ -204,12 +188,88 @@ Toutes mes connaissances en p...&lt;/p&gt;</description>
       
       
       
-      <description>Plan du livre partie Knwoledge management</description>
+      <description>Plan du livre &#39;Gestion des connaissances 🧠</description>
       <link>https://petoulemonde.github.io/blog/knowledge/plan/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/plan/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Bienvenue 👋</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Page d&#39;accueil du blog de Pierre-Etienne</description>
+      <link>https://petoulemonde.github.io/blog/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About me 👨</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Présentation de moi-même Pierre-Etienne, créateur et auteur de ce blog</description>
+      <link>https://petoulemonde.github.io/blog/about/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/about/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Introduction - Livre Informatique 🧑‍💻</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Introduction du livre Informatique 🧑‍💻</description>
+      <link>https://petoulemonde.github.io/blog/coding/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Introduction - Livre Gestion de projet 📋</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Introduction du livre Gestion de projet 📋</description>
+      <link>https://petoulemonde.github.io/blog/projet/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/</guid>
       
     </item>
     
@@ -343,61 +403,6 @@ Toutes mes connaissances en p...&lt;/p&gt;</description>
       <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Pré-projet</title>
-      
-      
-      
-      
-      <description>&lt;h1&gt;Pré-projet&lt;/h1&gt;
-&lt;p&gt;La phase de pré-projet consiste à mesurer la pertinence du projet avant de le lancer. &lt;/p&gt;
-&lt;p&gt;Chaque projet représente un investissement de ressource...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Business case</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Comprendre en quoi consiste l&#39;étape de pré-projet</description>
-      <link>https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/</guid>
-      
-    </item>
-    
-    <item>
-      <title>NVIDIA crée le confidentiel computing</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>NVIDIA crée le confidential computing, une technologie logicielle qui permet d&#39;assurer la sécurité des données pendant leur utilisation. Cette techno est notamment intéressante dans l&#39;IA où rapidité et sécurité sont 2 piliers essentielles.</description>
-      <link>https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/</link>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/</guid>
       
     </item>
     

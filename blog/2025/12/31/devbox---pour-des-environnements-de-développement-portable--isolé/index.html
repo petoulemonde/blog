@@ -6,36 +6,40 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Proposal for specifications for multi-layer documentation">
+        <meta name="description" content="La gestion d'environnements de développement est un pilier du développement. Beaucoup d'outils existent mais trouvent vite leur limites. Devbox est une alternative riche, qui pourrait bien modifier profondément le domaine des environnements virtuels.">
       
       
         <meta name="author" content="Pierre-Etienne Toulemonde">
       
       
-        <link rel="canonical" href="https://petoulemonde.github.io/blog/coding/Documentation%202.0/">
+        <link rel="canonical" href="https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/">
       
       
+        <link rel="prev" href="../../21/nvidia-cr%C3%A9e-le-confidentiel-computing/">
+      
+      
+        <link rel="next" href="../apache-superset---le-tableau-open-source/">
       
       
         
       
       
-        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
-        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../feed_rss_updated.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../../../../feed_rss_updated.xml">
       
-      <link rel="icon" href="../../assets/intelligence-artificielle.png">
+      <link rel="icon" href="../../../../../assets/intelligence-artificielle.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
     
     
       
-        <title>Towards Python package documentation 2.0? - Blog de Pierre-Etienne</title>
+        <title>Devbox - Pour des environnements de développement portable & isolé - Blog de Pierre-Etienne</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.ab4e12ef.min.css">
       
       
 
@@ -54,7 +58,7 @@
       
     
     
-    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -79,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#towards-python-package-documentation-20" class="md-skip">
+        <a href="#devbox-pour-des-environnements-de-developpement-portable-isole" class="md-skip">
           Skip to content
         </a>
       
@@ -93,9 +97,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Blog de Pierre-Etienne" class="md-header__button md-logo" aria-label="Blog de Pierre-Etienne" data-md-component="logo">
+    <a href="../../../../.." title="Blog de Pierre-Etienne" class="md-header__button md-logo" aria-label="Blog de Pierre-Etienne" data-md-component="logo">
       
-  <img src="../../assets/intelligence-artificielle.png" alt="logo">
+  <img src="../../../../../assets/intelligence-artificielle.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -112,7 +116,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Towards Python package documentation 2.0?
+              Devbox - Pour des environnements de développement portable & isolé
             
           </span>
         </div>
@@ -223,7 +227,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../.." class="md-tabs__link">
+        <a href="../../../../.." class="md-tabs__link">
           
   
   
@@ -245,7 +249,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../projet/" class="md-tabs__link">
+        <a href="../../../../../projet/" class="md-tabs__link">
           
   
   
@@ -267,7 +271,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../knowledge/" class="md-tabs__link">
+        <a href="../../../../../knowledge/" class="md-tabs__link">
           
   
   
@@ -285,11 +289,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../blog/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../../" class="md-tabs__link">
           
   
   
@@ -333,7 +339,9 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -344,9 +352,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Blog de Pierre-Etienne" class="md-nav__button md-logo" aria-label="Blog de Pierre-Etienne" data-md-component="logo">
+    <a href="../../../../.." title="Blog de Pierre-Etienne" class="md-nav__button md-logo" aria-label="Blog de Pierre-Etienne" data-md-component="logo">
       
-  <img src="../../assets/intelligence-artificielle.png" alt="logo">
+  <img src="../../../../../assets/intelligence-artificielle.png" alt="logo">
 
     </a>
     Blog de Pierre-Etienne
@@ -388,7 +396,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../.." class="md-nav__link ">
+            <a href="../../../../.." class="md-nav__link ">
               
   
   
@@ -432,7 +440,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../about/" class="md-nav__link">
+      <a href="../../../../../about/" class="md-nav__link">
         
   
   
@@ -494,7 +502,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../projet/" class="md-nav__link ">
+            <a href="../../../../../projet/" class="md-nav__link ">
               
   
   
@@ -631,7 +639,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../projet/pr%C3%A9projet/" class="md-nav__link ">
+            <a href="../../../../../projet/pr%C3%A9projet/" class="md-nav__link ">
               
   
   
@@ -675,7 +683,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/pr%C3%A9projet/business_case/" class="md-nav__link">
+      <a href="../../../../../projet/pr%C3%A9projet/business_case/" class="md-nav__link">
         
   
   
@@ -740,7 +748,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../projet/cadrage/" class="md-nav__link ">
+            <a href="../../../../../projet/cadrage/" class="md-nav__link ">
               
   
   
@@ -784,7 +792,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/cadrage/note_de_cadrage/" class="md-nav__link">
+      <a href="../../../../../projet/cadrage/note_de_cadrage/" class="md-nav__link">
         
   
   
@@ -812,7 +820,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/cadrage/gap_analysis/" class="md-nav__link">
+      <a href="../../../../../projet/cadrage/gap_analysis/" class="md-nav__link">
         
   
   
@@ -848,7 +856,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/conception/" class="md-nav__link">
+      <a href="../../../../../projet/conception/" class="md-nav__link">
         
   
   
@@ -876,7 +884,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/r%C3%A9alisation/" class="md-nav__link">
+      <a href="../../../../../projet/r%C3%A9alisation/" class="md-nav__link">
         
   
   
@@ -904,7 +912,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../projet/cloture/" class="md-nav__link">
+      <a href="../../../../../projet/cloture/" class="md-nav__link">
         
   
   
@@ -974,7 +982,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../knowledge/" class="md-nav__link ">
+            <a href="../../../../../knowledge/" class="md-nav__link ">
               
   
   
@@ -1018,7 +1026,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../knowledge/plan/" class="md-nav__link">
+      <a href="../../../../../knowledge/plan/" class="md-nav__link">
         
   
   
@@ -1050,6 +1058,8 @@
       
   
   
+    
+  
   
   
     
@@ -1067,22 +1077,23 @@
     
     
       
+        
+        
+      
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../blog/" class="md-nav__link ">
+            <a href="../../../../" class="md-nav__link ">
               
   
   
@@ -1100,13 +1111,13 @@
             </a>
             
               
-              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4">
             <span class="md-nav__icon md-icon"></span>
             
@@ -1126,7 +1137,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../tags/" class="md-nav__link">
+      <a href="../../../../../tags/" class="md-nav__link">
         
   
   
@@ -1164,10 +1175,13 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
@@ -1176,7 +1190,7 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_3" >
         
           
-          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="">
             
   
   
@@ -1214,7 +1228,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/archive/2025/" class="md-nav__link">
+      <a href="../../../../archive/2025/" class="md-nav__link">
         
   
   
@@ -1285,6 +1299,8 @@
             
             
               
+                
+              
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
@@ -1297,108 +1313,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#current-issues" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Current Issues
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#specifications-for-documentation-20" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Specifications for Documentation 2.0
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#the-role-of-ai" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        The Role of AI
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#existing-solutions" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Existing Solutions
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Existing Solutions">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#knowledge-management" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Knowledge management
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#evolving-standards" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Evolving standards
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#building-a-new-tool" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Building a new tool
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusion" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Conclusion
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -1406,11 +1320,74 @@
             
           
           
-            <div class="md-content" data-md-component="content">
-              
-              <article class="md-content__inner md-typeset">
-                
-                  
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../../../../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+                  <span class="md-ellipsis">
+                    Back to index
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    Metadata
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
+                        <time datetime="2025-12-31 00:00:00+00:00" class="md-ellipsis">December 31, 2025</time>
+                      </div>
+                    </li>
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69zm4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67zM5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2zm11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85"/></svg>
+                          <time datetime="2025-12-31 00:00:00+00:00" class="md-ellipsis">December 31, 2025</time>
+                        </div>
+                      </li>
+                    
+                    
+                    
+                      
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
+                          <span class="md-ellipsis">
+                            
+                              2 min read
+                            
+                          </span>
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+            
+          </nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+  
+
 
   <nav class="md-tags" >
     
@@ -1421,94 +1398,25 @@
         
       
       
-        <a href="../../tags/#tag:coding" class="md-tag md-tag-icon">coding</a>
+        <a href="../../../../../tags/#tag:coding" class="md-tag md-tag-icon">coding</a>
       
     
   </nav>
 
 
 
-<h1 id="towards-python-package-documentation-20">Towards Python package documentation 2.0?</h1>
-<p>I previously wrote an article reviewing how Python package documentation works, from docstrings to publication: Master the Python's documentation to make it an ally - article. This article gave me a deep understanding of how package documentation works, from function docstrings to offline documentation. However, this article also highlighted several flaws in this documentation structure.</p>
-<h2 id="current-issues">Current Issues</h2>
-<p>I have identified several issues, which I have grouped into four categories: 
-- <strong>The lack of standardization</strong>: Sphinx has brought some alignment, but each project still uses its own format,
-- <strong>Limited offline availability</strong>: few documentations can be accessed offline (e.g., <a href="https://kapeli.com/dash">Dash</a>, Zeal). Major packages like TensorFlow, LangChain, or PyTorch are missing,
-- <strong>Shallow intrapackage structure</strong>: most documentations only offer 1–2 disconnected layers:
-    - <em>Polars</em>: one layer focused on functions offline, and user guide online only,
-    - <em>Pandas</em>: two layers offline (API reference and user guide), but navigation between them is impossible.
-- <strong>No interpackage structure</strong>: users and maintainers cannot create cross-package user guides.</p>
-<p><em>Today's documentation works very well, so why should it be changed?</em>
-Current documentation fills an essential link in the information chain, such as providing a complete description of functions (what inputs, what outputs, how it works, etc.). 
-But a function never stands alone; it is always part of a whole. Documentation must evolve accordingly and address functions within their ecosystem. Developers have understood this well by including user guides directly in the package. But with the evolution of current knowledge management and its tools, it is both necessary and possible to go further.</p>
-<p>Furthermore, the inaccessibility of most packages offline complicates the user experience: instead of having a single software package that brings together all the packages with the ability to use all the software's tools offline, particularly the search functions, the developer must navigate online between the different documentation sets to finally find the desired information. This is a minimal waste of time, but it multiplies with each search and is therefore not insignificant.</p>
-<h2 id="specifications-for-documentation-20">Specifications for Documentation 2.0</h2>
-<p><em>The goal of this section is to imagine the ideal 2.0 documentation. I will discuss technical considerations or proposed implementation methods later.</em></p>
-<p><em>What already exists?</em>
-I think Pandas provides the most advanced model:
-- Offline availability,
-- Widely used tooling,
-- Existence of user guides.
-Offline features are tested with Zeal, assuming similar tools offer comparable capabilities.</p>
-<p><em>What features to add?</em>
-- Systematize the creation of offline documentation,
-- On offline document management software, add a version history navigation: real-world projects often require older versions. Offline tools don’t allow browsing them.
-- Allow navigation between layers API and user guides:
-    - From user guides : make functions clickable, with a link pointing to the function documentation,
-    - From API : list the user guides using the function, and allow the user to go to the user guide by clicking on it
-- Allow the user to create their own user guides.</p>
-<p><em>About the User’s User Guides</em> 
-User-generated guides are an important part of the process. They allow users to build their own development repositories, writing outlines for scripts they will later apply. This feature allows users to move beyond understanding and into action.</p>
-<p>Key features are:
-- <strong>Multi-package support</strong> with cross-layer linking: a user-generated guide: A user-generated guide should be able to span multiple packages within the same guide
-- <strong>Package version selector</strong>: within each guide, the packages used are listed, and the user can choose the version of each package he wishes to use via a selector.
-    - Functions missing from the selected version appear in red and are not clickable.
-    - Default version of each pacakge is latest available in the offline tool.
-- <strong>Shareable and publishable format</strong>: User-generated guides must be in a format that allows them to be shared and published
-- <strong>Conflict resolution</strong> : If a function corresponds to 2 packages within the guide, the user chooses which package to attach this function to.</p>
-<p><em>How to reconcile the link between the API and the user guide and the versioning of package versions?</em> 
-If a function does not exist in the selected version, it appears in red to alert the user.</p>
-<h2 id="the-role-of-ai">The Role of AI</h2>
-<p>No discussion about documentation would be complete without AI.</p>
-<p>AI could have two main uses:
-1. <strong>On-demand information retrieval</strong>: I ask my question to the AI, which answers me instantly (example: How do I build a dashboard with Streamlit and DuckDB?)
-2. <strong>Code generation</strong>: Ask the AI ​​to generate the response (example: Generate a dashboard with Streamlit and Duckdb).
-But AI has two huge problems:
-- Opaque interface between documentation and code: no transparency on code quality, limitations, or biases.
-- Instant answers with no learning process: prevents developers from exploring packages, discovering features, or experimenting with alternatives.
-AI is useful in specific contexts, but it is not a silver bullet. True mastery requires exploration and hands-on experimentation. AI is a temporary band-aid, but the underlying problem will never be solved.</p>
-<h2 id="existing-solutions">Existing Solutions</h2>
-<p>I have ranked the solutions from simplest to most complicated:</p>
-<h3 id="knowledge-management">Knowledge management</h3>
-<p>The need for custom user guides falls under knowledge management. Knowledge management software allows you to edit your own user guides. The formats used (often Markdown) allow these guides to be published with little rework. I personally recommend Obsidian.</p>
-<p>Pros: 
-✅ Easy to edit
-✅ Format compatible with existing platforms (e.g., Towards Data Science).</p>
-<p>Cons: 
-⛔ No link between API reference and guides from package or users. This would require transforming the entire document into markdown, respecting the fact that each function has its own note, in order to then be able to cite the functions in the user guides.</p>
-<p>I plan to write an article soon on this solution specifically, subscribe so you don't miss it!</p>
-<h3 id="evolving-standards">Evolving standards</h3>
-<p>Pandas is already close to a model. But following improvements are needed:
-- Auto-generate function ↔ guide links
-- Provide an Markdown editor for guides
-- Add inter-version navigation</p>
-<p>Pros: 
-✅ strong foundation already exists.  </p>
-<p>Cons: 
-⛔ Requires heavy modifications in tooling. Still package-siloed.</p>
-<h3 id="building-a-new-tool">Building a new tool</h3>
-<p>Creating new tools to create documentations and to download and use then offline would give full freedom.</p>
-<p>Pros: 
-✅ Fresh start
-✅ Modern front-end technologies, new UX</p>
-<p>Cons: 
-⛔ Zeal and Dash already have strong communities
-⛔ Sphinx already provides powerful components
-A new tool means building both a new paradigm and a new community.</p>
-<h2 id="conclusion">Conclusion</h2>
-<p>Packages keep growing in complexity. Current docsets are powerful but demand prior expertise and lack interpackage vision. The documentation format needs to evolve into something richer, more shareable, and better suited to developers’ needs.
-A new model could have a tremendous impact: a universal, shareable guide bank, linked to docsets, enabling deeper understanding of both packages and their relationships.</p>
-<p>To write this article, I researched Zeal and Dash competitors to see what features they had. I found a great <a href="https://programmation.developpez.com/actu/345115/Zeal-un-outil-permettant-aux-developpeurs-de-telecharger-les-documentations-des-langages-et-d-y-acceder-hors-ligne-y-compris-les-documentations-des-bibliotheques-des-API-et-d-autres-ressources/">website</a> that helped me a lot. I thank the Developpez website for this little help!</p>
+<h1 id="devbox-pour-des-environnements-de-developpement-portable-isole">Devbox - Pour des environnements de développement portable &amp; isolé</h1>
+<p>Si vous êtes développeur amateur ou professionnel, vous avez déjà dû tombé sur le cauchemar de tout développeur : le logiciel marche sur une machine mais pas sur une autre. Le marché regorge de solutions de création d'environnement virtuels : de la solution langage spécifique avec <a href="https://docs.astral.sh/uv/">uv</a> au <a href="https://github.com/pyenv/pyenv">pyenv</a> pour python, <a href="https://www.npmjs.com/">npm</a> ou <a href="https://yarnpkg.com/">Yarn</a> pour JavaScript jusqu'à des solutions de containerisation ou même de VM (machine virtuelle) en passant par <a href="https://www.anaconda.com/docs/getting-started/miniconda/main">Conda</a>. 
+Aucune solution n'est véritablement langage-agnostic, légère et robuste. Le challenger au titre le plus sérieux me semble être Conda (miniconda bien sûr, on est entre aficionados du terminal et fan d'open source, pas entre cliqueurs de bouton sur le bureau 😉).</p>
+<p><a href="https://www.jetify.com/">Jetlify</a> (anciennement Jetpack Technology) propose une solution très intéressante : <a href="https://www.jetify.com/devbox">Devbox</a> ! <!-- more --></p>
+<p><strong>Qu'est-ce que Devbox ?</strong></p>
+<p>Devbox est un outil en ligne de commande qui permet de créer facilement des environnements de développement. Il est sous licence Apache 2. Devbox fonctionne comme un gestionnaire de paquets. A la différence de gestionnaires de paquets comme Yarn, Devbox gère des paquets au niveau de l'OS (comme quand on installe un logiciel). Devbox utilise le registre de paquets [Nix](https://fr.wikipedia.org/wiki/Nix_(gestionnaire_de_paquets). </p>
+<p>Pour commencer avec Devbox, direction le <a href="https://github.com/jetify-com/devbox">repository GitHub</a> ! Le repo met le lien vers le registre de packages installables : https://www.nixhub.io/.
+Via son fichier de configuration, Devbox permet aussi un hook au lancement de l'environnement, des scripts projet-spécifiques, et peut même être utilisé dans des GitHub ou GitLab actions. </p>
+<p>Le site Neosoft a rédigé un joli <a href="https://www.neosoft.fr/nos-publications/blog-tech/comment-devbox-permet-de-creer-un-environnement-de-developpement-reproductible-en-2-minutes/">article</a> sur DevBox en français avec notamment un comparatif vs Docker, VM et des gestionnaires de packages.</p>
+<p><strong>En bref</strong> : Les environnements virtuels sont un pilier du développement. De nombreuses solutions existent mais trouvent vite leur limites. Devbox est un logiciel créé pour gérer des environnement virtuels, réellement langage-agnostic, open source et portable. </p>
+<p>Devbox a les épaules pour devenir un réel game-changer dans son domaine. C'est un logiciel à suivre dans l'avenir ! </p>
+<p>A très vite 🙂</p>
 
 
 
@@ -1522,12 +1430,14 @@ A new model could have a tremendous impact: a universal, shareable guide bank, l
 
 
 
+  
 
 
-                
-              </article>
-            </div>
-          
+
+      
+    </article>
+  </div>
+
           
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
@@ -1611,10 +1521,10 @@ A new model could have a tremendous impact: a universal, shareable guide bank, l
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.expand", "navigation.indexes", "navigation.sections", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": {"knowledge": "knowledge", "projet": "projet"}, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../../..", "features": ["navigation.expand", "navigation.indexes", "navigation.sections", "navigation.tabs"], "search": "../../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": {"knowledge": "knowledge", "projet": "projet"}, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../../../assets/javascripts/bundle.79ae519e.min.js"></script>
       
     
   </body>
