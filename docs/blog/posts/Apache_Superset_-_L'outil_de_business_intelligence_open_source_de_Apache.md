@@ -15,6 +15,8 @@ Pour les curieux de data visualisation et/ou professionnel travaillant en lien a
 
 La [Fondation Apache](https://www.apache.org/) a travaille et entretient depuis plus de 3 ans maintenant une alternative open source à ces 2 logiciels : [Apache superset](https://superset.apache.org/). Apache Superset se destine aux mêmes usages : exploration visuel et solution de dashboarding prêt pour la production.
 
+<!-- more -->
+
 Les forces de Apache Superset sont les suivantes : 
 💪 Outil no-code, allant de l'exploration graphique jusqu'au dashboard de production
 💪 Prise en charge des données géographiques

@@ -6,7 +6,24 @@ site_description: >-
   Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes découvertes informatiques
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2025 Pierre-Etienne Toulemonde
+copyright: Copyright &copy; 2016 - 2026 Pierre-Etienne Toulemonde
+
+# Additionnal configuration
+extra:
+  tags:
+#    data: data
+#    coding: coding
+    projet: projet
+    knowledge: knowledge
+  social:
+    - icon: fontawesome/solid/blog
+      link: https://penseecomplexe.substack.com/
+    - icon: fontawesome/solid/code
+      link: https://petoulemonde.github.io/
+    - icon: fontawesome/brands/github
+      link: https://github.com/petoulemonde/
+    - icon: fontawesome/solid/at
+      link: mailto:pierre-etienne.toulemonde@outlook.com
 
 # Configuration
 theme:
@@ -66,6 +83,7 @@ markdown_extensions:
 # Plugins
 plugins:
   - blog
+  - tags
   - rss:
       pretty_print: true
       use_git: false
@@ -76,18 +94,6 @@ plugins:
         default_timezone: Europe/Paris
       image: https://petoulemonde.github.io/blog/assets/intelligence-artificielle_128-128px.jpg
   - search
-
-# Additionnal configuration
-extra:
-  social:
-    - icon: fontawesome/solid/blog
-      link: https://penseecomplexe.substack.com/
-    - icon: fontawesome/solid/code
-      link: https://petoulemonde.github.io/
-    - icon: fontawesome/brands/github
-      link: https://github.com/petoulemonde/
-    - icon: fontawesome/solid/at
-      link: mailto:pierre-etienne.toulemonde@outlook.com
 
 # Navigation
 nav: 
@@ -116,5 +122,7 @@ nav:
 # - Informatique 🧑‍💻:
 #   - coding/index.md
 #   - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
-- Blog: blog/index.md
+- Blog: 
+  - blog/index.md
+  - Articles par tags: tags.md
 - Mon Blog Substack 🌐 : https://penseecomplexe.substack.com/
