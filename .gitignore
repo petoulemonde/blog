@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# Config files
+changelog.md
+
 # VSCode workspace
 *.code-workspace
 
