@@ -1,12 +1,12 @@
 ---
 title: "Pourquoi faire une veille ?"
-description: ""
+description: "Découvrez pourquoi La veille est une étape incontournable dans la construction de nos connaissances."
 author: "Pierre-Etienne Toulemonde"
 date:
-  created: 2025-01-13
-  updated: 2025-12-10
+  created: 2025-01-04
+  updated: 2025-01-04
 tags:
-  - projet
+  - knowledge
 ---
 # Pourquoi faire une veille ?
 
@@ -23,7 +23,7 @@ Pour repartir des fondamentaux, je regarde le [Larousse](https://www.larousse.fr
 3. *État de quelqu'un qui est éveillé*
 4. *Journée qui précède celle dont on parle ou un événement particulier*
     
-La définition 1 correspond bien à mon activité : _monter la garde_ des sujets qui m’intéresse et des actualités à suivre dans le cadre de mon exercice professionnel. Pour affiner cette définition à la veille tel que décrite dans cette article, je vous propose la définition suivante : **Activité qui consiste à surveiller les informations de son secteur d'activité.  
+La définition 1 correspond bien à mon activité : _monter la garde_ des sujets qui m’intéresse et des actualités à suivre dans le cadre de mon exercice professionnel. Pour affiner cette définition à la veille tel que décrite dans cette article, je vous propose la définition suivante : **Activité qui consiste à surveiller les informations de son secteur d'activité.** <!-- more -->
 **Cette définition me correspond bien, s'appliquant dans mon cas à surveiller les publications des sources de données choisies dans le domaine de la programmation python et des nouveautés technologiques du secteur plus largement.
 
 Parler d’Une Veille est bien sûr illusoire, la veille est un domaine avec plusieurs facettes (en voici quelques unes) :

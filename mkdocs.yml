@@ -119,6 +119,8 @@ nav:
 - Knowledge 🧠: 
   - Introduction: knowledge/index.md
   - Plan du livre: knowledge/plan.md
+  - Veille 🔭:
+    - Pourquoi faire une veille ?: knowledge/Pourquoi faire une veille.md
 # - Informatique 🧑‍💻:
 #   - coding/index.md
 #   - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
