@@ -1,4 +1,7 @@
 ---
+title: "Pré-projet"
+description: "Page de description de la phase de pré-proejt d'un projet et des méthodes associées"
+author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-12-22
   updated: 2025-12-22
