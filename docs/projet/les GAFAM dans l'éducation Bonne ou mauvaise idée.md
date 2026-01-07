@@ -1,6 +1,6 @@
 ---
-title: "Les GAFAM dans l'éducation : Bonne ou mauvaise idée ?"
-description: ""
+title: "les GAFAM dans l'éducation : Bonne ou mauvaise idée"
+description: "Quels sont les enjeux derrière l'introduction des GAFAM dans l'éducation ?"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-04-15
@@ -39,3 +39,4 @@ Aucune solution n'est foncièrement bonne ou foncièrement mauvaise parce qu'ell
 
 Pour vous initier à l'esprit critique ou mieux : vous faire travailler votre esprit critique, je vous conseille la super chaine YouTube : [L'esprit critique](https://www.youtube.com/@lespritcritique) (je ne touche aucune commission ni à vous en parler, ni au fait que vous cliquiez ou non dessus, je vous la recommande parce que je suis convaincu par la chaine).
 
+A bientôt 🙂

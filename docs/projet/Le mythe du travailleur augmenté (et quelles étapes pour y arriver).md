@@ -1,5 +1,6 @@
 ---
-title: "Le Mythe du Travailleur Augmenté : Décryptage et Réalité"
+title: "Le mythe du travailleur augmenté"
+description: "Quelles grandes étapes pour devenir un travailleur augmenté ?"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-02-18

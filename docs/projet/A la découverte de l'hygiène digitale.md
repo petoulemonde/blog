@@ -1,6 +1,6 @@
 ---
 title: "A la découverte de l'hygiène digitale"
-description: ""
+description: "Comment l'hygiène digitale peut nous aider dans notre vie ?"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-04-23
@@ -55,7 +55,7 @@ L'idée n'est pas de s'imposer des règles, mais bien de trouver son organisatio
 
 Cet article est une entrée en matière sur le sujet. J'ai le sentiment que le numérique recèle beaucoup de pépites pour faire notre monde numérique un monde beaucoup plus riche que l'idée qu'on s'en fait. J'ai déjà en tête des articles pour la suite, certains dont l'idée m'est venu en découvrant l'hygiène digitale, d'autres par articulation d'idées que j'avais d'avant mais qui ne trouvait pas pleinement leur place sans l'hygiène digitale. 
 
-A très vite :) 
+A très vite 🙂
 
 ## Idées pour la suite
 Idée de suite : 
