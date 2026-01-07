@@ -14,6 +14,7 @@ tags:
 [Zorin OS](https://zorin.com/os/) est une alternative à Windows ou MacOS tournant sur Linux. Dans la même veine que Mint OS ou d'autres OS tournant sous linux, Zorin OS offre une interface très proche de celle de Windows ou MacOS, pour proposer le meilleur coté techno de Linux avec le meilleur coté visuel de MacOS et Windows.
 
 Les avantages de Zorin OS sont les suivants : 
+
 - ✅ Visuel léché nous donnant sans soucis l'impression d'être sur un Windows ou un MacOS,
 - ✅ OS open source (le code est donc auditable si besoin),
 - ✅ **Permet d'installer des applications Windows** ([source](https://help.zorin.com/docs/apps-games/windows-app-support/)) **et des jeux vidéos de plateformes de jeux vidéos** ([source](https://help.zorin.com/docs/apps-games/play-games/#play-windows-games-with-steam-play))

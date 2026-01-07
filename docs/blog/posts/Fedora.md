@@ -12,7 +12,7 @@ tags:
 
 ## Pas 1, mais des Fedora : le Fedora Project
 
-Fedora c'est pas qu'un OS, c'est une suite de solutions issues du [Fedora project](https://www.fedoraproject.org/fr/). Le Fedora project rpopose 6 solutions : 
+Fedora c'est pas qu'un OS, c'est une suite de solutions issues du [Fedora project](https://www.fedoraproject.org/fr/). Le Fedora project proposes 6 solutions : 
 - [Fedora Workstation](https://www.fedoraproject.org/fr/workstation) : OS s'adressant plutôt aux développeurs, un bureau Linux raffiné et simple d'utilisation
 - [Fedora KDE Plasma Desktop](https://www.fedoraproject.org/fr/kde) (que je résumerai en Fedora KDE) : un OS simple et flexible bâti à l'aide des dernières technologies open source et personnalisable
 - Fedora Server : OS destiné aux serveurs
@@ -21,6 +21,7 @@ Fedora c'est pas qu'un OS, c'est une suite de solutions issues du [Fedora projec
 - Fedroa CoreOS : système d'exploitation minimal axé sur les conteneurs et mis à jour automatiquement.
 
 <!-- more --> 
+
 Fedora est parrainé par [Red Hat](https://www.redhat.com/). Red Hat est aujourd'hui propriété de IBM, qui utilise Fedora comme un laboratoire à nouvelles fonctionnalités qui sont plus tard incluses dans la distribution commerciale de Red Hat qui vend des abonnements d'assistance, de formation et d'intégration pour des clients utilisant l'open source ([source](https://fr.wikipedia.org/wiki/Red_Hat#Le_projet_Fedora)).
 
 ## Fedora Workstation
