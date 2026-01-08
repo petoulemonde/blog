@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Sun, 04 Jan 2026 18:26:36 -0000</pubDate>
-    <lastBuildDate>Sun, 04 Jan 2026 18:26:36 -0000</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 07:00:38 -0000</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 07:00:38 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,10 +39,25 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
-      <pubDate>Sun, 04 Jan 2026 18:26:37 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 07:00:40 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;2026&lt;/h1&gt;</description>
+      <link>https://petoulemonde.github.io/blog/blog/archive/2026/</link>
+      <pubDate>Thu, 08 Jan 2026 07:00:40 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2026/</guid>
       
     </item>
     
@@ -57,10 +72,86 @@ title: &#34;La blockchain en santé&#34;
 description: &#34;Quelle place pour la blockchain dans notre système de soin actuel ?&#34;
 author: &#34;Pierre-...&lt;/p&gt;</description>
       <link>https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</link>
-      <pubDate>Sun, 04 Jan 2026 18:26:36 +0000</pubDate>
+      <pubDate>Thu, 08 Jan 2026 07:00:39 +0000</pubDate>
       <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ElectronJS - Le chainon manquant entre web et logiciel</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>ElectronJS est un Framework JavaScript qui permet de créer des logiciels cross-plateforme grâce aux technologies du web (TypeScript, NextJS, TailwindCSS, … ). Ce framework occupe déjà une place énorme dans notre quotidien, et devient un must-have dans une palette de développeur.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Fedora est un OS linux largement répandu. C&#39;est aussi projet très construit de 6 OS différents pour répondre au mieux aux besoins, dont 2 dédiés aux ordinateurs du bureau avec Fedora Workstation et Fedora KDE. Dans cet article, découvrez l&#39;univers Fedora et trouvez peut-être votre OS de demain.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Linux Mint est un OS basé sur Debian et Ubuntu efficient : un système simple, sûr et fiable, par et pour l&#39;utilisateur. Dans cet article, découvrez Linux Mint, une approche intéressante de ce que peut être un OS.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Zorin OS</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Zorin OS est une alternative à Windows ou MacOS tournant sur Linux. Dans la même veine que d&#39;autres OS tournant sous linux, Zorin OS offre une interface très proche de celle de Windows ou MacOS, pour proposer le meilleur coté techno de Linux avec le meilleur coté visuel de MacOS et Windows. Zorin OS a des atouts indéniables, qui le font rivaliser avec les OS plus connus. Apprenez à connaitre Zorin OS pour peut-être découvrir votre OS de demain.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</guid>
       
     </item>
     
@@ -308,99 +399,6 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/cadrage/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Gap analysis</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Apprendre à identifier le gap entre l&#39;état actuel et l&#39;état souhaité</description>
-      <link>https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Note de cadrage</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Comprendre en quoi consiste la note de cadrage</description>
-      <link>https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Pré-projet</title>
-      
-      
-      
-      
-      <description>&lt;h1&gt;Pré-projet&lt;/h1&gt;
-&lt;p&gt;La phase de pré-projet consiste à mesurer la pertinence du projet avant de le lancer. &lt;/p&gt;
-&lt;p&gt;Chaque projet représente un investissement de ressource...&lt;/p&gt;</description>
-      <link>https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Business case</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Comprendre en quoi consiste l&#39;étape de pré-projet</description>
-      <link>https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/</guid>
-      
-    </item>
-    
-    <item>
-      <title>NVIDIA crée le confidentiel computing</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>NVIDIA crée le confidential computing, une technologie logicielle qui permet d&#39;assurer la sécurité des données pendant leur utilisation. Cette techno est notamment intéressante dans l&#39;IA où rapidité et sécurité sont 2 piliers essentielles.</description>
-      <link>https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/</link>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_created.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/</guid>
       
     </item>
     

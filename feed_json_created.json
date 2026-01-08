@@ -18,8 +18,19 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2026-01-04T18:26:37.018243+00:00",
-            "date_published": "2026-01-04T18:26:37.018243+00:00",
+            "date_modified": "2026-01-08T07:00:40.960277+00:00",
+            "date_published": "2026-01-08T07:00:40.960277+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/archive/2026/",
+            "url": "https://petoulemonde.github.io/blog/blog/archive/2026/",
+            "title": "2026",
+            "content_html": "<h1>2026</h1>",
+            "image": null,
+            "date_modified": "2026-01-08T07:00:40.925760+00:00",
+            "date_published": "2026-01-08T07:00:40.925760+00:00",
             "authors": [],
             "tags": null
         },
@@ -29,9 +40,69 @@
             "title": "La blockchain en sant\u00e9",
             "content_html": "<p>---La blockchain en sant\u00e9\ntitle: \"La blockchain en sant\u00e9\"\ndescription: \"Quelle place pour la blockchain dans notre syst\u00e8me de soin actuel ?\"\nauthor: \"Pierre-...</p>",
             "image": null,
-            "date_modified": "2026-01-04T18:26:36.750896+00:00",
-            "date_published": "2026-01-04T18:26:36.750896+00:00",
+            "date_modified": "2026-01-08T07:00:39.832514+00:00",
+            "date_published": "2026-01-08T07:00:39.832514+00:00",
             "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/",
+            "title": "ElectronJS - Le chainon manquant entre web et logiciel",
+            "content_html": "ElectronJS est un Framework JavaScript qui permet de cr\u00e9er des logiciels cross-plateforme gr\u00e2ce aux technologies du web (TypeScript, NextJS, TailwindCSS, \u2026 ). Ce framework occupe d\u00e9j\u00e0 une place \u00e9norme dans notre quotidien, et devient un must-have dans une palette de d\u00e9veloppeur.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/",
+            "title": "Fedora",
+            "content_html": "Fedora est un OS linux largement r\u00e9pandu. C'est aussi projet tr\u00e8s construit de 6 OS diff\u00e9rents pour r\u00e9pondre au mieux aux besoins, dont 2 d\u00e9di\u00e9s aux ordinateurs du bureau avec Fedora Workstation et Fedora KDE. Dans cet article, d\u00e9couvrez l'univers Fedora et trouvez peut-\u00eatre votre OS de demain.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/",
+            "title": "Linux Mint",
+            "content_html": "Linux Mint est un OS bas\u00e9 sur Debian et Ubuntu efficient : un syst\u00e8me simple, s\u00fbr et fiable, par et pour l'utilisateur. Dans cet article, d\u00e9couvrez Linux Mint, une approche int\u00e9ressante de ce que peut \u00eatre un OS.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/",
+            "title": "Zorin OS",
+            "content_html": "Zorin OS est une alternative \u00e0 Windows ou MacOS tournant sur Linux. Dans la m\u00eame veine que d'autres OS tournant sous linux, Zorin OS offre une interface tr\u00e8s proche de celle de Windows ou MacOS, pour proposer le meilleur cot\u00e9 techno de Linux avec le meilleur cot\u00e9 visuel de MacOS et Windows. Zorin OS a des atouts ind\u00e9niables, qui le font rivaliser avec les OS plus connus. Apprenez \u00e0 connaitre Zorin OS pour peut-\u00eatre d\u00e9couvrir votre OS de demain.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
             "tags": null
         },
         {
@@ -222,77 +293,6 @@
             "image": null,
             "date_modified": "2025-12-22T00:00:00+01:00",
             "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/",
-            "url": "https://petoulemonde.github.io/blog/projet/cadrage/gap_analysis/",
-            "title": "Gap analysis",
-            "content_html": "Apprendre \u00e0 identifier le gap entre l'\u00e9tat actuel et l'\u00e9tat souhait\u00e9",
-            "image": null,
-            "date_modified": "2025-12-22T00:00:00+01:00",
-            "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/",
-            "url": "https://petoulemonde.github.io/blog/projet/cadrage/note_de_cadrage/",
-            "title": "Note de cadrage",
-            "content_html": "Comprendre en quoi consiste la note de cadrage",
-            "image": null,
-            "date_modified": "2025-12-22T00:00:00+01:00",
-            "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/",
-            "url": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/",
-            "title": "Pr\u00e9-projet",
-            "content_html": "<h1>Pr\u00e9-projet</h1>\n<p>La phase de pr\u00e9-projet consiste \u00e0 mesurer la pertinence du projet avant de le lancer. </p>\n<p>Chaque projet repr\u00e9sente un investissement de ressource...</p>",
-            "image": null,
-            "date_modified": "2025-12-22T00:00:00+01:00",
-            "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/",
-            "url": "https://petoulemonde.github.io/blog/projet/pr%C3%A9projet/business_case/",
-            "title": "Business case",
-            "content_html": "Comprendre en quoi consiste l'\u00e9tape de pr\u00e9-projet",
-            "image": null,
-            "date_modified": "2025-12-22T00:00:00+01:00",
-            "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/",
-            "url": "https://petoulemonde.github.io/blog/blog/2025/12/21/nvidia-cr%C3%A9e-le-confidentiel-computing/",
-            "title": "NVIDIA cr\u00e9e le confidentiel computing",
-            "content_html": "NVIDIA cr\u00e9e le confidential computing, une technologie logicielle qui permet d'assurer la s\u00e9curit\u00e9 des donn\u00e9es pendant leur utilisation. Cette techno est notamment int\u00e9ressante dans l'IA o\u00f9 rapidit\u00e9 et s\u00e9curit\u00e9 sont 2 piliers essentielles.",
-            "image": null,
-            "date_modified": "2025-12-21T00:00:00+00:00",
-            "date_published": "2025-12-21T00:00:00+00:00",
             "authors": [
                 {
                     "name": "Pierre-Etienne Toulemonde"
