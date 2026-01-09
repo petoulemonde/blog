@@ -18,16 +18,10 @@ Toutes mes connaissances en gestion de projet, formalisées pour ce format de si
 
 **Par où commencer ?**
 Vous êtes ici dans l'avant-propos du livre. Vous pouvez explorer ce livre de 2 façons : 
+
 - dans l'ordre que je vous propose dans la barre de navigation de gauche,
 - en piquant les sujets qui vous intéressent dans la barre de navigation.
 
 Ecoutez-vous, et bonne lecture 🙂
 
-## Plan du livre
-## Les 5 temps du projet
-- [Pré-projet](préprojet.md)
-- [Cadrage](cadrage.md)
-- [Conception](conception.md)
-- [Réalisation](réalisation.md)
-- [Retour d'expérience](retour_expérience.md)
 
