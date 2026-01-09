@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     
-    <title>Blog de Pierre-Etienne</title>
-    <description>Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes découvertes informatiques</description>
+    <title>DevZéro</title>
+    <description>Bienvenue sur DevZéro, un lieu de partage de toutes mes découvertes informatiques, data, knowledge management et gestion de projet.</description>
     <link>https://petoulemonde.github.io/blog/</link>
     <atom:link href="https://petoulemonde.github.io/blog/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
 
@@ -13,8 +13,8 @@
     <language>en</language>
 
     
-    <pubDate>Fri, 09 Jan 2026 08:06:11 -0000</pubDate>
-    <lastBuildDate>Fri, 09 Jan 2026 08:06:11 -0000</lastBuildDate>
+    <pubDate>Fri, 09 Jan 2026 15:12:31 -0000</pubDate>
+    <lastBuildDate>Fri, 09 Jan 2026 15:12:31 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -24,7 +24,7 @@
     
     <image>
       <url>https://petoulemonde.github.io/blog/assets/intelligence-artificielle_128-128px.jpg</url>
-      <title>Blog de Pierre-Etienne</title>
+      <title>DevZéro</title>
       <link>https://petoulemonde.github.io/blog/</link>
     </image>
     
@@ -39,8 +39,8 @@
       
       <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
       <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
-      <pubDate>Fri, 09 Jan 2026 08:06:12 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <pubDate>Fri, 09 Jan 2026 15:12:32 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
       
@@ -54,8 +54,8 @@
       
       <description>&lt;h1&gt;2026&lt;/h1&gt;</description>
       <link>https://petoulemonde.github.io/blog/blog/archive/2026/</link>
-      <pubDate>Fri, 09 Jan 2026 08:06:12 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <pubDate>Fri, 09 Jan 2026 15:12:32 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2026/</guid>
       
@@ -73,8 +73,8 @@
       
       <description>Introduction du livre Data 📊</description>
       <link>https://petoulemonde.github.io/blog/data/</link>
-      <pubDate>Fri, 09 Jan 2026 08:06:12 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <pubDate>Fri, 09 Jan 2026 15:12:32 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/data/</guid>
       
@@ -91,8 +91,8 @@ title: &#34;La blockchain en santé&#34;
 description: &#34;Quelle place pour la blockchain dans notre système de soin actuel ?&#34;
 author: &#34;Pierre-...&lt;/p&gt;</description>
       <link>https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</link>
-      <pubDate>Fri, 09 Jan 2026 08:06:12 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <pubDate>Fri, 09 Jan 2026 15:12:32 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/La%20blockchain%20en%20sant%C3%A9/</guid>
       
@@ -111,9 +111,28 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Arch Linux est une distribution intéressante à un titre : la distribution seule est très minimaliste, laissant la main au développeur pour développer son propre environnement en partant juste du minimum nécessaire à un système. Si l&#39;OS peut représenter un challenge lors de sa configuration initiale, il sait convaincre par ses autres arguments et est largement déployé aujourd&#39;hui.</description>
       <link>https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Plan du livre 🗺️</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Plan du livre Projet 📋</description>
+      <link>https://petoulemonde.github.io/blog/projet/plan/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/plan/</guid>
       
     </item>
     
@@ -130,7 +149,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>ElectronJS est un Framework JavaScript qui permet de créer des logiciels cross-plateforme grâce aux technologies du web (TypeScript, NextJS, TailwindCSS, … ). Ce framework occupe déjà une place énorme dans notre quotidien, et devient un must-have dans une palette de développeur.</description>
       <link>https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</guid>
       
@@ -149,7 +168,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Fedora est un OS linux largement répandu. C&#39;est aussi projet très construit de 6 OS différents pour répondre au mieux aux besoins, dont 2 dédiés aux ordinateurs du bureau avec Fedora Workstation et Fedora KDE. Dans cet article, découvrez l&#39;univers Fedora et trouvez peut-être votre OS de demain.</description>
       <link>https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</guid>
       
@@ -168,7 +187,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Linux Mint est un OS basé sur Debian et Ubuntu efficient : un système simple, sûr et fiable, par et pour l&#39;utilisateur. Dans cet article, découvrez Linux Mint, une approche intéressante de ce que peut être un OS.</description>
       <link>https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</guid>
       
@@ -187,7 +206,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Zorin OS est une alternative à Windows ou MacOS tournant sur Linux. Dans la même veine que d&#39;autres OS tournant sous linux, Zorin OS offre une interface très proche de celle de Windows ou MacOS, pour proposer le meilleur coté techno de Linux avec le meilleur coté visuel de MacOS et Windows. Zorin OS a des atouts indéniables, qui le font rivaliser avec les OS plus connus. Apprenez à connaitre Zorin OS pour peut-être découvrir votre OS de demain.</description>
       <link>https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</guid>
       
@@ -206,7 +225,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Ensemble des pages du site &amp; blog par tag</description>
       <link>https://petoulemonde.github.io/blog/tags/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/tags/</guid>
       
@@ -225,7 +244,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>La structure de dossier d&#39;un projet Python est un élément important pour un projet pérenne, assurant lisibilité et réutilisabilité du projet. Découvrez Cookiecutter-data-science, un pacakge python qui propose une structure de dossier robuste et répétable dans tous vos projets.</description>
       <link>https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</guid>
       
@@ -244,7 +263,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Découvrez Apache Superset, un projet open source et de niveau professionnel pour la business intelligence, alternative aux outils comme PowerBI ou Tableau</description>
       <link>https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</guid>
       
@@ -263,14 +282,14 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>La gestion d&#39;environnements de développement est un pilier du développement. Beaucoup d&#39;outils existent mais trouvent vite leur limites. Devbox est une alternative riche, qui pourrait bien modifier profondément le domaine des environnements virtuels.</description>
       <link>https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</guid>
       
     </item>
     
     <item>
-      <title>Introduction</title>
+      <title>Mon livre Knowledge 🧠</title>
       
       
         
@@ -282,14 +301,14 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Introduction du livre &#39;Gestion des connaissances 🧠&#39;</description>
       <link>https://petoulemonde.github.io/blog/knowledge/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/</guid>
       
     </item>
     
     <item>
-      <title>Plan du livre</title>
+      <title>Plan du livre 🗺️</title>
       
       
         
@@ -301,7 +320,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Plan du livre &#39;Gestion des connaissances 🧠</description>
       <link>https://petoulemonde.github.io/blog/knowledge/plan/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/plan/</guid>
       
@@ -320,7 +339,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Page d&#39;accueil du blog de Pierre-Etienne</description>
       <link>https://petoulemonde.github.io/blog/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
       
@@ -339,7 +358,7 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Présentation de moi-même Pierre-Etienne, créateur et auteur de ce blog</description>
       <link>https://petoulemonde.github.io/blog/about/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/about/</guid>
       
@@ -358,14 +377,14 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Introduction du livre Informatique 🧑‍💻</description>
       <link>https://petoulemonde.github.io/blog/coding/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/</guid>
       
     </item>
     
     <item>
-      <title>Introduction - Livre Gestion de projet 📋</title>
+      <title>Mon livre Projet 📋</title>
       
       
         
@@ -377,28 +396,9 @@ author: &#34;Pierre-...&lt;/p&gt;</description>
       <description>Introduction du livre Gestion de projet 📋</description>
       <link>https://petoulemonde.github.io/blog/projet/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">DevZéro</source>
       
       <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Retour d&#39;expérience</title>
-      
-      
-        
-      <author>Pierre-Etienne Toulemonde</author>
-        
-      
-      
-      
-      <description>Comprendre en quoi consiste l&#39;étape de retour d&#39;expérience</description>
-      <link>https://petoulemonde.github.io/blog/projet/cloture/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
-      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Blog de Pierre-Etienne</source>
-      
-      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/cloture/</guid>
       
     </item>
     
