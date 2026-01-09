@@ -4,11 +4,11 @@ description: "Introduction du livre Gestion de projet 📋"
 author: "Pierre-Etienne Toulemonde"
 date:
   created: 2025-12-22
-  updated: 2025-12-22
+  updated: 2026-01-09
 tags:
   - projet
 ---
-# Introduction - Livre Gestion de projet 📋
+# Introduction - Livre Projet 📋
 
 ## Bienvenue ✌️
 Bienvenue sur mon livre de gestion de projet ! 

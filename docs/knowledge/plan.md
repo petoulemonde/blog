@@ -9,4 +9,8 @@ tags:
   - knowledge
 ---
 # Plan - Livre Gestion des connaissances 🧠
-*En cours de rédaction*
+
+- [Pourquoi l'IA n'est pas savoir ?](Pourquoi l'IA n'est pas savoir.md)
+
+## Veille 🔭:
+- [Pourquoi faire une veille ?](Pourquoi faire une veille.md)
