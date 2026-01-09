@@ -10,7 +10,7 @@ tags:
 ---
 # Conception
 
-Avec le [cadrage](cadrage.md), les grandes lignes sont fixées. La conception du projet consiste à concevoir son contenu, organiser et planifier le travail à mener.
+Avec le [cadrage](cadrage/index.md), les grandes lignes sont fixées. La conception du projet consiste à concevoir son contenu, organiser et planifier le travail à mener.
 
 ## Etapes de conception de projet
 

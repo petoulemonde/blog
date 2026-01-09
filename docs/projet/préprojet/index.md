@@ -16,4 +16,4 @@ Chaque projet représente un investissement de ressources (argent comme humain),
 
 Le livrable finale de cette phase est le [business case](business_case.md) (ou étude d'opprotunité).
 
-Retrouvez ici mon [template de business case](assets/business_case.docx).
+Retrouvez ici mon [template de business case](../assets/business_case.docx).

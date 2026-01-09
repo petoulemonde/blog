@@ -11,7 +11,7 @@ tags:
 # Note de cadrage
 
 ## Présentation de la note de cadrage
-La note de cadrage est le document de référence de la phase de [cadrage](cadrage.md), reprenant les grandes lignes du projet. Il se situe entre l'[étude d'opportunité](business_case.md) et le Cahier des charges.
+La note de cadrage est le document de référence de la phase de [cadrage](index.md), reprenant les grandes lignes du projet. Il se situe entre l'[étude d'opportunité](../préprojet/business_case.md) et le Cahier des charges.
 Il répond aux questions Méthode CQQCOQP.
 
 ## Avantages de la note de cadrage

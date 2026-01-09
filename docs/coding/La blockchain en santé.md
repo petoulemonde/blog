@@ -1,4 +1,4 @@
----La blockchain en santé
+---
 title: "La blockchain en santé"
 description: "Quelle place pour la blockchain dans notre système de soin actuel ?"
 author: "Pierre-Etienne Toulemonde"

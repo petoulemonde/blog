@@ -11,7 +11,7 @@ tags:
 # Gap analysis
 
 ## Présentation du gap analysis
-Le principe repose sur la comparaison entre la situation actuelle et la situation projetée, puis identifier les leviers et tâches pour supprimer cet écart. Cette méthode est utile pour la rédaction de la [note de cadrage](assets/note_de_cadrage.docx), livrable finale de la phase de [cadrage](cadrage.md).
+Le principe repose sur la comparaison entre la situation actuelle et la situation projetée, puis identifier les leviers et tâches pour supprimer cet écart. Cette méthode est utile pour la rédaction de la [note de cadrage](../assets/note_de_cadrage.docx), livrable finale de la phase de [cadrage](index.md).
 
 ## Etapes d'un gap analysis 
 1. Réaliser une photo de la situation présente : *Où suis-je ?*

@@ -40,7 +40,7 @@ ccds # Lancer l'initalisation d'un nouveau projet
 Cookiecutter v2 ne supporte que Python 3.9+ (Python version 3.9 et au-delà).
 
 Les différentes étapes de configuration ([source avec tous les détails](https://cookiecutter-data-science.drivendata.org/all-options/)) sont (texte en bleu = texte par défaut si vous ne saisissez rien) : 
-1. Si vous avez déjà installé Cookiecutter, voulez-vous le réinstaller (cf. [Installation approfondie](###-Installation-approfondie))
+1. Si vous avez déjà installé Cookiecutter, voulez-vous le réinstaller (cf. partie *Installation approfondie ci-dessous*)
 
 2. Nom du projet (impact : fichier de configuration)
 
@@ -73,6 +73,7 @@ Les différentes étapes de configuration ([source avec tous les détails](https
 16. Inclure du code de base dans le module python
 
 ### Installation approfondie
+
 Cookiecutter peut être installé avec tous les outils : 
 ```python
 uv add cookiecutter-data-science # Installation avec uv 
@@ -86,6 +87,7 @@ conda install cookiecutter-data-science # Installation
 Lors de son installation, Cookiecutter crée un dossier */cookiecutters/cookiecutter-data-science* dans votre dossier d'utilisateur. Grâce à cette méthode, vous n'avez à l'installer qu'une seule fois, pour l'appeler n'importe où et autant de fois que vous voulez (faites le test : ouvrez un terminal et taper *ccds*, et Cookiecutter se lancera).
 
 ### Configuration approfondie
+
 Pour utiliser la v1 du template de Cookiecutter : 
 ```python
 ccds https://github.com/drivendataorg/cookiecutter-data-science -c v1

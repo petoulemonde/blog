@@ -10,7 +10,7 @@ tags:
 ---
 # Cadrage
 
-Une fois validé le choix de lancer le projet ([Phase de pré-projet](préprojet.md)), s’ensuit l’étape de cadrage. Elle fixe les grandes lignes du projet à partir de l’idée de départ et permet de l’initialiser.
+Une fois validé le choix de lancer le projet ([Phase de pré-projet](../préprojet/index.md)), s’ensuit l’étape de cadrage. Elle fixe les grandes lignes du projet à partir de l’idée de départ et permet de l’initialiser.
 
 Phases de cadrage :
 
