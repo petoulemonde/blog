@@ -1,9 +1,9 @@
 # Project information
-site_name: DevZéro
+site_name: Dev de Zéro
 site_url: https://petoulemonde.github.io/blog
 site_author: Pierre-Etienne Toulemonde
 site_description: >-
-  Bienvenue sur DevZéro, un lieu de partage de toutes mes découvertes informatiques, data, knowledge management et gestion de projet.
+  Bienvenue sur Dev de Zéro, un lieu de partage de toutes mes découvertes informatiques, data, knowledge management et gestion de projet.
 
 # Copyright
 copyright: Copyright &copy; 2025 - 2026 Pierre-Etienne Toulemonde
@@ -11,10 +11,11 @@ copyright: Copyright &copy; 2025 - 2026 Pierre-Etienne Toulemonde
 # Additionnal configuration
 extra:
   tags:
-#    data: data
-#    coding: coding
-    projet: projet
-    knowledge: knowledge
+    data 📊: data
+    coding 🧑‍💻: coding
+    projet 📋: projet
+    knowledge 🧠: knowledge
+    python 🐍: python
   social:
     - icon: fontawesome/solid/blog
       link: https://penseecomplexe.substack.com/
@@ -103,8 +104,10 @@ nav:
   - index.md
   - About me 👨: about.md
   - Mon livre Projet 📋: projet/index.md
+  - Mon livre Data 📊: date/index.md
   - Mon livre Knowledge 🧠: knowledge/index.md
-  - Mon blog: blog/index.md
+  - Mon livre Informatique 🧑‍💻: coding/index.md
+  - Mon blog: blog/
 
 - Projet 📋:
   - projet/index.md
@@ -121,9 +124,9 @@ nav:
     - Réalisation: projet/réalisation.md
     - Retour d'expérience: projet/cloture.md
 
-# - Data 📊:
-#   - data/index.md
-#   - Qu'est-ce qu'une data ?: data/Qu'est-ce qu'une data.md
+- Data 📊:
+  - data/index.md
+  - Qu'est-ce qu'une data ?: data/Qu'est-ce qu'une data.md
 
 - Knowledge 🧠: 
   - Introduction: knowledge/index.md
@@ -131,9 +134,9 @@ nav:
   - Veille 🔭:
     - Pourquoi faire une veille ?: knowledge/Pourquoi faire une veille.md
 
-# - Informatique 🧑‍💻:
-#   - coding/index.md
-#   - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
+- Informatique 🧑‍💻:
+  - coding/index.md
+#  - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
 
 - Blog: 
   - blog/index.md
