@@ -18,8 +18,8 @@
             "title": "2025",
             "content_html": "<h1>2025</h1>",
             "image": null,
-            "date_modified": "2026-01-08T07:00:40.960277+00:00",
-            "date_published": "2026-01-08T07:00:40.960277+00:00",
+            "date_modified": "2026-01-09T08:03:06.404507+00:00",
+            "date_published": "2026-01-09T08:03:06.404507+00:00",
             "authors": [],
             "tags": null
         },
@@ -29,8 +29,8 @@
             "title": "2026",
             "content_html": "<h1>2026</h1>",
             "image": null,
-            "date_modified": "2026-01-08T07:00:40.925760+00:00",
-            "date_published": "2026-01-08T07:00:40.925760+00:00",
+            "date_modified": "2026-01-09T08:03:06.389504+00:00",
+            "date_published": "2026-01-09T08:03:06.389504+00:00",
             "authors": [],
             "tags": null
         },
@@ -40,7 +40,7 @@
             "title": "Introduction - Livre Data \ud83d\udcca",
             "content_html": "Introduction du livre Data \ud83d\udcca",
             "image": null,
-            "date_modified": "2026-01-08T07:00:40.207292+00:00",
+            "date_modified": "2026-01-09T08:03:05.893808+00:00",
             "date_published": "2025-12-10T00:00:00+01:00",
             "authors": [
                 {
@@ -55,9 +55,24 @@
             "title": "La blockchain en sant\u00e9",
             "content_html": "<p>---La blockchain en sant\u00e9\ntitle: \"La blockchain en sant\u00e9\"\ndescription: \"Quelle place pour la blockchain dans notre syst\u00e8me de soin actuel ?\"\nauthor: \"Pierre-...</p>",
             "image": null,
-            "date_modified": "2026-01-08T07:00:39.832514+00:00",
-            "date_published": "2026-01-08T07:00:39.832514+00:00",
+            "date_modified": "2026-01-09T08:03:05.632890+00:00",
+            "date_published": "2026-01-09T08:03:05.632890+00:00",
             "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/",
+            "title": "Arch linux - Un linux ... minimaliste",
+            "content_html": "Arch Linux est une distribution int\u00e9ressante \u00e0 un titre : la distribution seule est tr\u00e8s minimaliste, laissant la main au d\u00e9veloppeur pour d\u00e9velopper son propre environnement en partant juste du minimum n\u00e9cessaire \u00e0 un syst\u00e8me. Si l'OS peut repr\u00e9senter un challenge lors de sa configuration initiale, il sait convaincre par ses autres arguments et est largement d\u00e9ploy\u00e9 aujourd'hui.",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+00:00",
+            "date_published": "2026-01-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
             "tags": null
         },
         {
@@ -275,21 +290,6 @@
             "url": "https://petoulemonde.github.io/blog/projet/cloture/",
             "title": "Retour d'exp\u00e9rience",
             "content_html": "Comprendre en quoi consiste l'\u00e9tape de retour d'exp\u00e9rience",
-            "image": null,
-            "date_modified": "2025-12-22T00:00:00+01:00",
-            "date_published": "2025-12-22T00:00:00+01:00",
-            "authors": [
-                {
-                    "name": "Pierre-Etienne Toulemonde"
-                }
-            ],
-            "tags": null
-        },
-        {
-            "id": "https://petoulemonde.github.io/blog/projet/conception/",
-            "url": "https://petoulemonde.github.io/blog/projet/conception/",
-            "title": "Conception",
-            "content_html": "Comprendre en quoi consiste l'\u00e9tape de conception",
             "image": null,
             "date_modified": "2025-12-22T00:00:00+01:00",
             "date_published": "2025-12-22T00:00:00+01:00",
