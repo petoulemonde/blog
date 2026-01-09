@@ -1,12 +1,12 @@
 # Project information
-site_name: Blog de Pierre-Etienne
+site_name: DevZéro
 site_url: https://petoulemonde.github.io/blog
 site_author: Pierre-Etienne Toulemonde
 site_description: >-
-  Bienvenue sur le Pierre-Etienne, lieu de partage de toutes mes découvertes informatiques
+  Bienvenue sur DevZéro, un lieu de partage de toutes mes découvertes informatiques, data, knowledge management et gestion de projet.
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2026 Pierre-Etienne Toulemonde
+copyright: Copyright &copy; 2025 - 2026 Pierre-Etienne Toulemonde
 
 # Additionnal configuration
 extra:
@@ -63,7 +63,9 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
+      # primary: indigo # Couleur par défaut
       accent: indigo
+      # accent: indigo # Couleur par défaut
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -100,8 +102,13 @@ nav:
 - Bienvenue 👋: 
   - index.md
   - About me 👨: about.md
-- Gestion de projet 📋:
+  - Mon livre Projet 📋: projet/index.md
+  - Mon livre Knowledge 🧠: knowledge/index.md
+  - Mon blog: blog/index.md
+
+- Projet 📋:
   - projet/index.md
+  - Plan du livre 🗺️: projet/plan.md
   - Les 5 temps du projet:
     - Pré-projet: 
       - projet/préprojet/index.md
@@ -113,18 +120,23 @@ nav:
     - Conception: projet/conception.md
     - Réalisation: projet/réalisation.md
     - Retour d'expérience: projet/cloture.md
+
 # - Data 📊:
 #   - data/index.md
 #   - Qu'est-ce qu'une data ?: data/Qu'est-ce qu'une data.md
+
 - Knowledge 🧠: 
   - Introduction: knowledge/index.md
-  - Plan du livre: knowledge/plan.md
+  - Plan du livre 🗺️: knowledge/plan.md
   - Veille 🔭:
     - Pourquoi faire une veille ?: knowledge/Pourquoi faire une veille.md
+
 # - Informatique 🧑‍💻:
 #   - coding/index.md
 #   - Cookiecutter-data-science - Un outil 🐍 pour structurer ses projets
+
 - Blog: 
   - blog/index.md
   - Articles par tags: tags.md
+
 - Mon Blog Substack 🌐 : https://penseecomplexe.substack.com/
