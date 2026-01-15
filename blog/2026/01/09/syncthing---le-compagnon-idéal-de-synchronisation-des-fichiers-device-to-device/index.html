@@ -6,36 +6,40 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="Quelles grandes étapes pour devenir un travailleur augmenté ?">
+        <meta name="description" content="Syncthing est un outil génial qui permet de synchroniser tous nos appareils numériques sans friction et sans même penser. Syncthing permet de nous affranchir des cloud en matière de synchronisation inter appareils pour redevenir un peu plus maitre de nos données sans concession sur la sécurité de ces dernières.">
       
       
         <meta name="author" content="Pierre-Etienne Toulemonde">
       
       
-        <link rel="canonical" href="https://petoulemonde.github.io/blog/projet/Le%20mythe%20du%20travailleur%20augment%C3%A9%20%28et%20quelles%20%C3%A9tapes%20pour%20y%20arriver%29/">
+        <link rel="canonical" href="https://petoulemonde.github.io/blog/blog/2026/01/09/syncthing---le-compagnon-id%C3%A9al-de-synchronisation-des-fichiers-device-to-device/">
       
       
+        <link rel="prev" href="../../07/electronjs---le-chainon-manquant-entre-web-et-logiciel/">
+      
+      
+        <link rel="next" href="../arch-linux---un-linux--minimaliste/">
       
       
         
       
       
-        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../feed_rss_created.xml">
-        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../feed_rss_updated.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed" href="../../../../../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="../../../../../feed_rss_updated.xml">
       
-      <link rel="icon" href="../../assets/intelligence-artificielle.png">
+      <link rel="icon" href="../../../../../assets/intelligence-artificielle.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
     
     
       
-        <title>Le mythe du travailleur augmenté - Dev de Zéro</title>
+        <title>Syncthing - Le compagnon idéal de synchronisation des fichiers device-to-device - Dev de Zéro</title>
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      <link rel="stylesheet" href="../../../../../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+        <link rel="stylesheet" href="../../../../../assets/stylesheets/palette.ab4e12ef.min.css">
       
       
 
@@ -54,7 +58,7 @@
       
     
     
-    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -79,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#le-mythe-du-travailleur-augmente-decryptage-et-realite" class="md-skip">
+        <a href="#syncthing-le-compagnon-ideal-de-synchronisation-des-fichiers-device-to-device" class="md-skip">
           Skip to content
         </a>
       
@@ -93,9 +97,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Dev de Zéro" class="md-header__button md-logo" aria-label="Dev de Zéro" data-md-component="logo">
+    <a href="../../../../.." title="Dev de Zéro" class="md-header__button md-logo" aria-label="Dev de Zéro" data-md-component="logo">
       
-  <img src="../../assets/intelligence-artificielle.png" alt="logo">
+  <img src="../../../../../assets/intelligence-artificielle.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -112,7 +116,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Le mythe du travailleur augmenté
+              Syncthing - Le compagnon idéal de synchronisation des fichiers device-to-device
             
           </span>
         </div>
@@ -223,7 +227,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../.." class="md-tabs__link">
+        <a href="../../../../.." class="md-tabs__link">
           
   
   
@@ -245,7 +249,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../" class="md-tabs__link">
+        <a href="../../../../../projet/" class="md-tabs__link">
           
   
   
@@ -267,7 +271,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../data/" class="md-tabs__link">
+        <a href="../../../../../data/" class="md-tabs__link">
           
   
   
@@ -289,7 +293,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../knowledge/" class="md-tabs__link">
+        <a href="../../../../../knowledge/" class="md-tabs__link">
           
   
   
@@ -311,7 +315,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../coding/" class="md-tabs__link">
+        <a href="../../../../../coding/" class="md-tabs__link">
           
   
   
@@ -329,11 +333,13 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../blog/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../../../" class="md-tabs__link">
           
   
   
@@ -377,7 +383,9 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -388,9 +396,9 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Dev de Zéro" class="md-nav__button md-logo" aria-label="Dev de Zéro" data-md-component="logo">
+    <a href="../../../../.." title="Dev de Zéro" class="md-nav__button md-logo" aria-label="Dev de Zéro" data-md-component="logo">
       
-  <img src="../../assets/intelligence-artificielle.png" alt="logo">
+  <img src="../../../../../assets/intelligence-artificielle.png" alt="logo">
 
     </a>
     Dev de Zéro
@@ -442,7 +450,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../.." class="md-nav__link ">
+            <a href="../../../../.." class="md-nav__link ">
               
   
   
@@ -486,7 +494,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../about/" class="md-nav__link">
+      <a href="../../../../../about/" class="md-nav__link">
         
   
   
@@ -514,7 +522,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../" class="md-nav__link">
+      <a href="../../../../../projet/" class="md-nav__link">
         
   
   
@@ -542,7 +550,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../date/index.md" class="md-nav__link">
+      <a href="../../../../../date/index.md" class="md-nav__link">
         
   
   
@@ -570,7 +578,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../knowledge/" class="md-nav__link">
+      <a href="../../../../../knowledge/" class="md-nav__link">
         
   
   
@@ -598,7 +606,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../coding/" class="md-nav__link">
+      <a href="../../../../../coding/" class="md-nav__link">
         
   
   
@@ -626,7 +634,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/" class="md-nav__link">
+      <a href="../../../../" class="md-nav__link">
         
   
   
@@ -690,7 +698,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../" class="md-nav__link ">
+            <a href="../../../../../projet/" class="md-nav__link ">
               
   
   
@@ -734,7 +742,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../plan/" class="md-nav__link">
+      <a href="../../../../../projet/plan/" class="md-nav__link">
         
   
   
@@ -855,7 +863,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../pr%C3%A9projet/" class="md-nav__link ">
+            <a href="../../../../../projet/pr%C3%A9projet/" class="md-nav__link ">
               
   
   
@@ -899,7 +907,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../pr%C3%A9projet/business_case/" class="md-nav__link">
+      <a href="../../../../../projet/pr%C3%A9projet/business_case/" class="md-nav__link">
         
   
   
@@ -964,7 +972,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../cadrage/" class="md-nav__link ">
+            <a href="../../../../../projet/cadrage/" class="md-nav__link ">
               
   
   
@@ -1008,7 +1016,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../cadrage/note_de_cadrage/" class="md-nav__link">
+      <a href="../../../../../projet/cadrage/note_de_cadrage/" class="md-nav__link">
         
   
   
@@ -1036,7 +1044,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../cadrage/gap_analysis/" class="md-nav__link">
+      <a href="../../../../../projet/cadrage/gap_analysis/" class="md-nav__link">
         
   
   
@@ -1072,7 +1080,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../conception/" class="md-nav__link">
+      <a href="../../../../../projet/conception/" class="md-nav__link">
         
   
   
@@ -1100,7 +1108,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../r%C3%A9alisation/" class="md-nav__link">
+      <a href="../../../../../projet/r%C3%A9alisation/" class="md-nav__link">
         
   
   
@@ -1128,7 +1136,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../cloture/" class="md-nav__link">
+      <a href="../../../../../projet/cloture/" class="md-nav__link">
         
   
   
@@ -1198,7 +1206,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../data/" class="md-nav__link ">
+            <a href="../../../../../data/" class="md-nav__link ">
               
   
   
@@ -1242,7 +1250,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../data/Qu%27est-ce%20qu%27une%20data/" class="md-nav__link">
+      <a href="../../../../../data/Qu%27est-ce%20qu%27une%20data/" class="md-nav__link">
         
   
   
@@ -1308,7 +1316,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../knowledge/" class="md-nav__link ">
+            <a href="../../../../../knowledge/" class="md-nav__link ">
               
   
   
@@ -1352,7 +1360,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../knowledge/plan/" class="md-nav__link">
+      <a href="../../../../../knowledge/plan/" class="md-nav__link">
         
   
   
@@ -1380,7 +1388,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/" class="md-nav__link">
+      <a href="../../../../../knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/" class="md-nav__link">
         
   
   
@@ -1466,7 +1474,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../knowledge/Pourquoi%20faire%20une%20veille/" class="md-nav__link">
+      <a href="../../../../../knowledge/Pourquoi%20faire%20une%20veille/" class="md-nav__link">
         
   
   
@@ -1534,7 +1542,7 @@
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../coding/" class="md-nav__link ">
+            <a href="../../../../../coding/" class="md-nav__link ">
               
   
   
@@ -1577,6 +1585,8 @@
       
   
   
+    
+  
   
   
     
@@ -1594,22 +1604,23 @@
     
     
       
+        
+        
+      
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../../blog/" class="md-nav__link ">
+            <a href="../../../../" class="md-nav__link ">
               
   
   
@@ -1627,13 +1638,13 @@
             </a>
             
               
-              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_6">
             <span class="md-nav__icon md-icon"></span>
             
@@ -1653,7 +1664,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../tags/" class="md-nav__link">
+      <a href="../../../../../tags/" class="md-nav__link">
         
   
   
@@ -1693,10 +1704,13 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
@@ -1705,7 +1719,7 @@
         <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6_3" >
         
           
-          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_6_3" id="__nav_6_3_label" tabindex="">
             
   
   
@@ -1743,7 +1757,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/archive/2026/" class="md-nav__link">
+      <a href="../../../../archive/2026/" class="md-nav__link">
         
   
   
@@ -1773,7 +1787,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/archive/2025/" class="md-nav__link">
+      <a href="../../../../archive/2025/" class="md-nav__link">
         
   
   
@@ -1844,6 +1858,8 @@
             
             
               
+                
+              
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
@@ -1856,86 +1872,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#lia-fantasmes-et-realite" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        L'IA : Fantasmes et Réalité
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#un-chemin-dapprentissage-pas-un-saut-instantane" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Un Chemin d'Apprentissage, Pas un Saut Instantané
-      
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Un Chemin d&#39;Apprentissage, Pas un Saut Instantané">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#jouer-avec-lia-la-decouverte" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Jouer avec l'IA : La Découverte
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#integrer-lia-dans-ses-pratiques" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Intégrer l'IA dans ses Pratiques
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#affiner-et-automatiser" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Affiner et Automatiser
-      
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusion-a-toi-de-jouer" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Conclusion : À toi de Jouer
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -1943,11 +1879,74 @@
             
           
           
-            <div class="md-content" data-md-component="content">
-              
-              <article class="md-content__inner md-typeset">
-                
-                  
+  <div class="md-content md-content--post" data-md-component="content">
+    <div class="md-sidebar md-sidebar--post" data-md-component="sidebar" data-md-type="navigation">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner md-post">
+          <nav class="md-nav md-nav--primary">
+            <div class="md-post__back">
+              <div class="md-nav__title md-nav__container">
+                <a href="../../../../" class="md-nav__link">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+                  <span class="md-ellipsis">
+                    Back to index
+                  </span>
+                </a>
+              </div>
+            </div>
+            
+            <ul class="md-post__meta md-nav__list">
+              <li class="md-nav__item md-nav__item--section">
+                <div class="md-post__title">
+                  <span class="md-ellipsis">
+                    Metadata
+                  </span>
+                </div>
+                <nav class="md-nav">
+                  <ul class="md-nav__list">
+                    <li class="md-nav__item">
+                      <div class="md-nav__link">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
+                        <time datetime="2026-01-09 00:00:00+00:00" class="md-ellipsis">January 9, 2026</time>
+                      </div>
+                    </li>
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69zm4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67zM5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2zm11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85"/></svg>
+                          <time datetime="2026-01-09 00:00:00+00:00" class="md-ellipsis">January 9, 2026</time>
+                        </div>
+                      </li>
+                    
+                    
+                    
+                      
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
+                          <span class="md-ellipsis">
+                            
+                              3 min read
+                            
+                          </span>
+                        </div>
+                      </li>
+                    
+                  </ul>
+                </nav>
+              </li>
+            </ul>
+            
+          </nav>
+          
+        </div>
+      </div>
+    </div>
+    <article class="md-content__inner md-typeset">
+      
+        
+  
+
 
   <nav class="md-tags" >
     
@@ -1958,58 +1957,35 @@
         
       
       
-        <a href="../../tags/#tag:projet" class="md-tag md-tag-icon">projet</a>
+        <a href="../../../../../tags/#tag:coding" class="md-tag md-tag-icon">coding</a>
       
     
   </nav>
 
 
 
-<h1 id="le-mythe-du-travailleur-augmente-decryptage-et-realite">Le Mythe du Travailleur Augmenté : Décryptage et Réalité</h1>
-<p>L'expression "travailleur augmenté" est sur toutes les bouches. Mais qu'est-ce que ça veut vraiment dire ? Pour certains, c'est simplement utiliser l'IA (mais laquelle, comment, pourquoi ?). Pour d'autres, c'est carrément une IA qui devient un travailleur autonome. Autant dire qu'on nage dans le flou.</p>
-<h2 id="lia-fantasmes-et-realite">L'IA : Fantasmes et Réalité</h2>
-<p>Quand on parle de "travailleur augmenté", on peut tout imaginer :
-- Se connecter à ChatGPT et lui poser des questions ?
-- Lui demander de relire un article ?
-- Lui demander d'écrire la stratégie entière d'une entreprise ?
-- Utiliser ChatGPT, Claude ou n'importe quelle autre IA comme si elles se valaient toutes ?
-Et quand on parle de faire de l'IA un assistant intégré dans notre travail, d'autres questions surgissent :
-- Quels processus concrets faut-il mettre en place ?
-- Où est la limite entre l'IA et l'humain ?
-- Combien de temps, de compétences et d'argent faut-il investir pour que l'IA devienne un vrai atout et pas une contrainte ?</p>
-<p>Aujourd'hui, on entend beaucoup que l'IA va nous rendre plus productifs, mais on a peu de recul sur ce que signifie vraiment cette "augmentation" et comment y arriver.</p>
-<h2 id="un-chemin-dapprentissage-pas-un-saut-instantane">Un Chemin d'Apprentissage, Pas un Saut Instantané</h2>
-<p>Moi-même, utilisateur de Word, Excel et PowerPoint depuis toujours, j'ai découvert l'IA comme un choc. J'ai déjà un bagage en code (Python, R) qui m'a aidé à explorer cet univers, à la fois du côté grand public et technique. Ce que j'ai appris jusqu'ici, c'est que l'IA, comme toute technologie, n'est pas une solution magique. Elle demande du temps pour être comprise et intégrée.</p>
-<p>Le seul vrai précédent historique, c'est l'ordinateur puis l'ordinateur personnel (PC). C'était une révolution en son temps, aujourd'hui tout le monde en a un. L'IA suit le même chemin. </p>
-<p>Pour s'y retrouver, j'ai identifié 3 grandes étapes ; </p>
-<h3 id="jouer-avec-lia-la-decouverte">Jouer avec l'IA : La Découverte</h3>
-<p>Première étape, la plus simple : tester l'IA. N'importe laquelle, sans complexe. L'objectif est de comprendre ce qu'elle peut (et ne peut pas) faire. Beaucoup de gens en sont déjà là, même s'ils l'utilisent seulement une fois par mois.
-Objectif : 
-- Comme tout outil/application, en prendre connaissance (Facebook quand c'est sorti, une nouvelle machine de bricolage)</p>
-<h3 id="integrer-lia-dans-ses-pratiques">Intégrer l'IA dans ses Pratiques</h3>
-<p>Une fois l'outil découvert, l'idée est de l'intégrer dans son quotidien avec des outils accessibles. Par exemple :
-- Rédiger un plan d'article, puis utiliser ChatGPT pour en faire une version affinée.
-- Utiliser l'IA pour automatiser certaines tâches répétitives.</p>
-<p>Astuce : avant d'utiliser l'IA, note ton idée à la main. Exprimer librement sa pensée sans contrainte technique permet de ne pas brider sa créativité.</p>
-<p>🌟 Clé de cette étape : Toujours garder en tête la question "Comment puis-je utiliser l'IA pour plus efficace mon travail tout en gardant de la fluidité ?"</p>
-<h3 id="affiner-et-automatiser">Affiner et Automatiser</h3>
-<p>Là, on passe à un niveau supérieur. L'IA devient un véritable levier d'efficacité :
-- Utiliser des outils comme Claude Projects pour préparamétrer les réponses.
-- Créer une bibliothèque de prompts bien pensés pour améliorer les résultats.
-- Commencer à mettre les mains dans la technique (sans être développeur !) pour automatiser des workflows.</p>
-<p>Exemples concrets :
-- Un bot Telegram pour noter une idée à la voix et la sauvegarder automatiquement.
-- Une gestion complète d'une boutique en ligne avec l'IA connectée aux stocks, emails clients, et comptabilité.</p>
-<p>Est-ce que cette étape est la dernière ? 
-Non, mais c'est à partir de celle-ci que le besoin réel doit passer avant le besoin de progresser. Pour des métiers très artistiques par exemple, pas besoin d'avoir une boutique en ligne complètement automatisée, mais quand même besoin d'avoir une IA préparamétrer pour faire des recherches bien précises plus facilement; ou pour des cadres de créer des supports respectant un langage ou un format spécifique.
-A partir de cette étape, vous vous serez déjà intéressé au milieu, vous aurez donc déjà des références de gens qui ont mis en place des trucs stylés, des auteurs inspirants, ce seront donc à vous de continuer à tracer le chemin que j'ai initié dans cet article.</p>
-<p>Pour ma part, j'en suis à l'étape 2 : j'utilise couramment l'IA pour rédiger mes articles (je fais mon plan de note, les idées, les jointures, puis je passe à ChatGPT avec un préprompt pour la rédaction), puis je reprend l'article, je relis intégralement, le reformule. Pourquoi j'ai choisi cette solution ? Je suis perfectionniste, mais pas dans le bon sens : je galère à trouver mes intros ! L'IA m'aide à avoir un texte de départ complet à partir de mes idées, je n'ai plus le soucis de l'intro et je gagne plusieurs heures dans la rédactions, tout en gardant mes idées, mon plan (je précise dans mon préprompt que l'IA ne doit ni ajouter, ni retirer d'idées, et ça marche pas trop mal pour l'instant). Et puis je dois bien le reconnaitre : l'IA organise mieux que moi les idées, là ou je ferais un paragraphe, elle fait des bullet points beaucoup plus clairs que moi, donc autant que je l'utilise ! </p>
-<h2 id="conclusion-a-toi-de-jouer">Conclusion : À toi de Jouer</h2>
-<p>L'important, ce n'est pas de chercher à être "augmenté" à tout prix, mais d'adapter l'IA à son propre travail, à son rythme et selon ses besoins. La question à se poser : quelle est ta prochaine étape ?
-Les étapes sont très larges j'en suis conscient, pour 2 raisons : 
-- chacun a son propre chemin, ses propres besoins. Je dis pas que je suis tout seul à utiliser une IA pour rédiger, mais j'ai rédigé moi-même mon préprompt car il doit correspondre à mes besoins spécifiquement.
-- ce sont des grands phares qui permettent de voir si on est sur la bonne route ou pas : se connecter sur ChatGPT pour demander une image ne doit pas être la fin du chemin, il faut aller plus loin et mettre en place ses propres flux plus complexes.</p>
-<p>En route vers ton propre chemin d'"augmentation" !</p>
+<h1 id="syncthing-le-compagnon-ideal-de-synchronisation-des-fichiers-device-to-device">Syncthing - Le compagnon idéal de synchronisation des fichiers device-to-device</h1>
+<p>Le cloud est devenu inévitable dans la gestion de nos fichiers pour 2 raisons : 
+-  Protéger nos fichiers si on nous vole ou on casse un de nos appareils,
+-  Synchroniser nos fichiers entre plusieurs appareils pour y avoir accès partout.
+Mais le cloud a aussi un cout, un cout plutôt important : 
+- Un cout monétaire : louer l'espace de stockage en ligne à un fournisseur
+- Un cout de sécurité de nos données : les données qu'on met sur les clouds sont utilisés à des fins marketing ou pour entrainer des IA
+- Un cout de dépendance à un fournisseur : si demain le fournisseur nous coupe l'accès, nous perdons tous nos documents, avec pour seule capacité de récupération celle que le fournisseur voudra bien nous mettre à disposition.</p>
+<!-- more -->
+
+<p><a href="https://syncthing.net">Syncthing</a> est un logiciel de synchronisation de fichiers inter appareil, marchant sur toutes les grandes plateformes (Windows, Mac, Linux, Android). Grâce à Syncthing, la synchronisation inter appareil ne nécessite plus de cloud, tout est fait entre appareil en tâche de fond et à une vitesse telle que c'est quasi instantané (j'ai plusieurs fois chargé des gros fichiers, et le chargement est quand même quasiment instantané, le temps que vous ouvriez l'application sur votre 2e appareil pour utiliser le fichier transféré que le transfert sera fini).</p>
+<p>Syncthing présente plusieurs avantages : </p>
+<ul>
+<li>✅ Pas besoin de réseau pour transférer des fichiers, la seule règle est que les 2 appareils doivent se trouver sur un même réseau Wifi, vous pouvez émuler un réseau wifi avec un appareil et y connecter l'autre, et Syncthing fonctionnera. Que vous soyez dans le train, l'avion où dans une zone blanche, vous pouvez transférer des fichiers d'un appareil à l'autre sans effort grâce à Syncthing</li>
+<li>✅ Une fois lancé sur un appareil, Syncthing tourne en tâche de fond. Dès que vos 2 appareils seront sur le wifi de chez vous par exemple, ils se synchroniseront sans même avoir à y penser ! Syncthing n'est pas gourmand pour 2 sous : il représente moins de mémoriel 2% de l'utilisation de ma batterie de téléphone alors qu'il tourne 24/24 7/7. Syncthing consomme beaucoup moins que des Netflix, Google Maps, Spotify et consort qui ne tournent pourtant que ponctuellement</li>
+<li>✅ Syncthing est hautement paramétrable, vous pouvez très bien mettre en pause la synchronisation avec un appareil, choisir sur quel appareil vous poussez simplement les modifications et sur quel appareil vous synchronisez</li>
+<li>✅ Syncthing est sécurisé, la configuration d'une synchronisation nécessite un nombre d'étape suffisant pour qu'il n'y ait aucun risque que nos données fuitent par ce biais.</li>
+</ul>
+<p>Le paramétrage de Syncthing n'est pas toujours évident, je vous conseille la <a href="https://www.youtube.com/watch?v=1XJocyjvzEE">vidéo de Korben</a> pour vous y retrouver.</p>
+<p>J'utilise Syncthing quotidiennement sur 3 appareils, et à ce jour il ne m'a jamais posé problème, un destrier de mes projets comme tout cavalier rêverai d'en avoir. Avant de passer à Syncthing, j'ai testé beaucoup d'applications de synchronisation, mais aucune n'est même arrivée à la cheville de Syncthing.</p>
+<p><strong>En bref</strong> : Syncthing est un outil génial qui permet de synchroniser tous nos appareils numériques sans friction et sans même penser. Syncthing permet de nous affranchir des cloud en matière de synchronisation inter appareils pour redevenir un peu plus maitre de nos données sans concession sur la sécurité de ces dernières.</p>
+<p>A bientôt 🙂</p>
 
 
 
@@ -2023,12 +1999,14 @@ Les étapes sont très larges j'en suis conscient, pour 2 raisons :
 
 
 
+  
 
 
-                
-              </article>
-            </div>
-          
+
+      
+    </article>
+  </div>
+
           
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
@@ -2112,10 +2090,10 @@ Les étapes sont très larges j'en suis conscient, pour 2 raisons :
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.expand", "navigation.indexes", "navigation.sections", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": {"coding \ud83e\uddd1\u200d\ud83d\udcbb": "coding", "data \ud83d\udcca": "data", "knowledge \ud83e\udde0": "knowledge", "projet \ud83d\udccb": "projet", "python \ud83d\udc0d": "python"}, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../../..", "features": ["navigation.expand", "navigation.indexes", "navigation.sections", "navigation.tabs"], "search": "../../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": {"coding \ud83e\uddd1\u200d\ud83d\udcbb": "coding", "data \ud83d\udcca": "data", "knowledge \ud83e\udde0": "knowledge", "projet \ud83d\udccb": "projet", "python \ud83d\udc0d": "python"}, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      <script src="../../../../../assets/javascripts/bundle.79ae519e.min.js"></script>
       
     
   </body>
