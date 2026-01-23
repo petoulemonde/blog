@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Dev de Zéro</title>
+    <description>Bienvenue sur Dev de Zéro, un lieu de partage de toutes mes découvertes informatiques, data, knowledge management et gestion de projet.</description>
+    <link>https://petoulemonde.github.io/blog/</link>
+    <atom:link href="https://petoulemonde.github.io/blog/feed_rss_updated.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Pierre-Etienne Toulemonde</managingEditor>
+    
+    <language>en</language>
+
+    
+    <pubDate>Fri, 23 Jan 2026 16:26:37 -0000</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 16:26:37 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.7</generator>
+
+    
+    
+    <image>
+      <url>https://petoulemonde.github.io/blog/assets/intelligence-artificielle_128-128px.jpg</url>
+      <title>Dev de Zéro</title>
+      <link>https://petoulemonde.github.io/blog/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>2025</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;2025&lt;/h1&gt;</description>
+      <link>https://petoulemonde.github.io/blog/blog/archive/2025/</link>
+      <pubDate>Fri, 23 Jan 2026 16:26:41 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2025/</guid>
+      
+    </item>
+    
+    <item>
+      <title>2026</title>
+      
+      
+      
+      
+      <description>&lt;h1&gt;2026&lt;/h1&gt;</description>
+      <link>https://petoulemonde.github.io/blog/blog/archive/2026/</link>
+      <pubDate>Fri, 23 Jan 2026 16:26:41 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/archive/2026/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Les BDD 🐍 in-memory</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Les bases de données in-process sont des bases de données fonctionnant sur notre ordinateur. Ces bases sont une alternative intéressante aux bases de données plus classiques, permettant de drafter des projets ou de réaliser des projets maison beaucoup plus facilement.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/19/les-bdd--in-memory/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/19/les-bdd--in-memory/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Arch linux - Un linux ... minimaliste</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Arch Linux est une distribution intéressante à un titre : la distribution seule est très minimaliste, laissant la main au développeur pour développer son propre environnement en partant juste du minimum nécessaire à un système. Si l&#39;OS peut représenter un challenge lors de sa configuration initiale, il sait convaincre par ses autres arguments et est largement déployé aujourd&#39;hui.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Syncthing - Le compagnon idéal de synchronisation des fichiers device-to-device</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Syncthing est un outil génial qui permet de synchroniser tous nos appareils numériques sans friction et sans même penser. Syncthing permet de nous affranchir des cloud en matière de synchronisation inter appareils pour redevenir un peu plus maitre de nos données sans concession sur la sécurité de ces dernières.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/09/syncthing---le-compagnon-id%C3%A9al-de-synchronisation-des-fichiers-device-to-device/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/09/syncthing---le-compagnon-id%C3%A9al-de-synchronisation-des-fichiers-device-to-device/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Bienvenue 👋</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Page d&#39;accueil du blog Dev de Zéro</description>
+      <link>https://petoulemonde.github.io/blog/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi l&#39;IA n&#39;est pas savoir ?</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>L&#39;IA est une connaissance exogène, extérieur à nous. Notre connaissance est une connaissance endogène, stockée dans notre cerveau donc immédiatement accessible et déjà digérée. Apprendre, c&#39;est construire notre patrimoine intellectuel, comme on construirait un patrimoine immobilier ou un patrimoine financier : à court terme c&#39;est un investissement, à long terme c&#39;est un bénéfice.</description>
+      <link>https://petoulemonde.github.io/blog/knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mon livre Projet 📋</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Introduction du livre Gestion de projet 📋</description>
+      <link>https://petoulemonde.github.io/blog/projet/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Plan du livre 🗺️</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Plan du livre Projet 📋</description>
+      <link>https://petoulemonde.github.io/blog/projet/plan/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/projet/plan/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ElectronJS - Le chainon manquant entre web et logiciel</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>ElectronJS est un Framework JavaScript qui permet de créer des logiciels cross-plateforme grâce aux technologies du web (TypeScript, NextJS, TailwindCSS, … ). Ce framework occupe déjà une place énorme dans notre quotidien, et devient un must-have dans une palette de développeur.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Fedora est un OS linux largement répandu. C&#39;est aussi projet très construit de 6 OS différents pour répondre au mieux aux besoins, dont 2 dédiés aux ordinateurs du bureau avec Fedora Workstation et Fedora KDE. Dans cet article, découvrez l&#39;univers Fedora et trouvez peut-être votre OS de demain.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Linux Mint est un OS basé sur Debian et Ubuntu efficient : un système simple, sûr et fiable, par et pour l&#39;utilisateur. Dans cet article, découvrez Linux Mint, une approche intéressante de ce que peut être un OS.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Zorin OS</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Zorin OS est une alternative à Windows ou MacOS tournant sur Linux. Dans la même veine que d&#39;autres OS tournant sous linux, Zorin OS offre une interface très proche de celle de Windows ou MacOS, pour proposer le meilleur coté techno de Linux avec le meilleur coté visuel de MacOS et Windows. Zorin OS a des atouts indéniables, qui le font rivaliser avec les OS plus connus. Apprenez à connaitre Zorin OS pour peut-être découvrir votre OS de demain.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Articles par tags</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Ensemble des pages du site &amp; blog par tag</description>
+      <link>https://petoulemonde.github.io/blog/tags/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/tags/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Cookiecutter - Un outil 🐍 pour structurer ses projets</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>La structure de dossier d&#39;un projet Python est un élément important pour un projet pérenne, assurant lisibilité et réutilisabilité du projet. Découvrez Cookiecutter-data-science, un pacakge python qui propose une structure de dossier robuste et répétable dans tous vos projets.</description>
+      <link>https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Apache Superset - Le Tableau open source</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Découvrez Apache Superset, un projet open source et de niveau professionnel pour la business intelligence, alternative aux outils comme PowerBI ou Tableau</description>
+      <link>https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Devbox - Pour des environnements de développement portable &amp; isolé</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>La gestion d&#39;environnements de développement est un pilier du développement. Beaucoup d&#39;outils existent mais trouvent vite leur limites. Devbox est une alternative riche, qui pourrait bien modifier profondément le domaine des environnements virtuels.</description>
+      <link>https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Mon livre Knowledge 🧠</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Introduction du livre &#39;Gestion des connaissances 🧠&#39;</description>
+      <link>https://petoulemonde.github.io/blog/knowledge/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Plan du livre 🗺️</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Plan du livre &#39;Gestion des connaissances 🧠</description>
+      <link>https://petoulemonde.github.io/blog/knowledge/plan/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/knowledge/plan/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About me 👨</title>
+      
+      
+        
+      <author>Pierre-Etienne Toulemonde</author>
+        
+      
+      
+      
+      <description>Présentation de moi-même Pierre-Etienne, créateur et auteur de ce blog</description>
+      <link>https://petoulemonde.github.io/blog/about/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0100</pubDate>
+      <source url="https://petoulemonde.github.io/blog/feed_rss_updated.xml">Dev de Zéro</source>
+      
+      <guid isPermaLink="true">https://petoulemonde.github.io/blog/about/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

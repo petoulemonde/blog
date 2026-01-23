@@ -1,0 +1,308 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Dev de Z\u00e9ro",
+    "home_page_url": "https://petoulemonde.github.io/blog/",
+    "feed_url": "https://petoulemonde.github.io/blog/feed_json_created.json",
+    "description": "Bienvenue sur Dev de Z\u00e9ro, un lieu de partage de toutes mes d\u00e9couvertes informatiques, data, knowledge management et gestion de projet.",
+    "icon": "https://petoulemonde.github.io/blog/assets/intelligence-artificielle_128-128px.jpg",
+    "authors": [
+        {
+            "name": "Pierre-Etienne Toulemonde"
+        }
+    ],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/archive/2025/",
+            "url": "https://petoulemonde.github.io/blog/blog/archive/2025/",
+            "title": "2025",
+            "content_html": "<h1>2025</h1>",
+            "image": null,
+            "date_modified": "2026-01-23T16:26:41.381917+00:00",
+            "date_published": "2026-01-23T16:26:41.381917+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/archive/2026/",
+            "url": "https://petoulemonde.github.io/blog/blog/archive/2026/",
+            "title": "2026",
+            "content_html": "<h1>2026</h1>",
+            "image": null,
+            "date_modified": "2026-01-23T16:26:41.364919+00:00",
+            "date_published": "2026-01-23T16:26:41.364919+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/19/les-bdd--in-memory/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/19/les-bdd--in-memory/",
+            "title": "Les BDD \ud83d\udc0d in-memory",
+            "content_html": "Les bases de donn\u00e9es in-process sont des bases de donn\u00e9es fonctionnant sur notre ordinateur. Ces bases sont une alternative int\u00e9ressante aux bases de donn\u00e9es plus classiques, permettant de drafter des projets ou de r\u00e9aliser des projets maison beaucoup plus facilement.",
+            "image": null,
+            "date_modified": "2026-01-19T00:00:00+00:00",
+            "date_published": "2026-01-19T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/09/arch-linux---un-linux--minimaliste/",
+            "title": "Arch linux - Un linux ... minimaliste",
+            "content_html": "Arch Linux est une distribution int\u00e9ressante \u00e0 un titre : la distribution seule est tr\u00e8s minimaliste, laissant la main au d\u00e9veloppeur pour d\u00e9velopper son propre environnement en partant juste du minimum n\u00e9cessaire \u00e0 un syst\u00e8me. Si l'OS peut repr\u00e9senter un challenge lors de sa configuration initiale, il sait convaincre par ses autres arguments et est largement d\u00e9ploy\u00e9 aujourd'hui.",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+00:00",
+            "date_published": "2026-01-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/09/syncthing---le-compagnon-id%C3%A9al-de-synchronisation-des-fichiers-device-to-device/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/09/syncthing---le-compagnon-id%C3%A9al-de-synchronisation-des-fichiers-device-to-device/",
+            "title": "Syncthing - Le compagnon id\u00e9al de synchronisation des fichiers device-to-device",
+            "content_html": "Syncthing est un outil g\u00e9nial qui permet de synchroniser tous nos appareils num\u00e9riques sans friction et sans m\u00eame penser. Syncthing permet de nous affranchir des cloud en mati\u00e8re de synchronisation inter appareils pour redevenir un peu plus maitre de nos donn\u00e9es sans concession sur la s\u00e9curit\u00e9 de ces derni\u00e8res.",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+00:00",
+            "date_published": "2026-01-09T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/",
+            "url": "https://petoulemonde.github.io/blog/knowledge/Pourquoi%20l%27IA%20n%27est%20pas%20savoir/",
+            "title": "Pourquoi l'IA n'est pas savoir ?",
+            "content_html": "L'IA est une connaissance exog\u00e8ne, ext\u00e9rieur \u00e0 nous. Notre connaissance est une connaissance endog\u00e8ne, stock\u00e9e dans notre cerveau donc imm\u00e9diatement accessible et d\u00e9j\u00e0 dig\u00e9r\u00e9e. Apprendre, c'est construire notre patrimoine intellectuel, comme on construirait un patrimoine immobilier ou un patrimoine financier : \u00e0 court terme c'est un investissement, \u00e0 long terme c'est un b\u00e9n\u00e9fice.",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+01:00",
+            "date_published": "2026-01-09T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/plan/",
+            "url": "https://petoulemonde.github.io/blog/projet/plan/",
+            "title": "Plan du livre \ud83d\uddfa\ufe0f",
+            "content_html": "Plan du livre Projet \ud83d\udccb",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+01:00",
+            "date_published": "2026-01-09T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/electronjs---le-chainon-manquant-entre-web-et-logiciel/",
+            "title": "ElectronJS - Le chainon manquant entre web et logiciel",
+            "content_html": "ElectronJS est un Framework JavaScript qui permet de cr\u00e9er des logiciels cross-plateforme gr\u00e2ce aux technologies du web (TypeScript, NextJS, TailwindCSS, \u2026 ). Ce framework occupe d\u00e9j\u00e0 une place \u00e9norme dans notre quotidien, et devient un must-have dans une palette de d\u00e9veloppeur.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/fedora/",
+            "title": "Fedora",
+            "content_html": "Fedora est un OS linux largement r\u00e9pandu. C'est aussi projet tr\u00e8s construit de 6 OS diff\u00e9rents pour r\u00e9pondre au mieux aux besoins, dont 2 d\u00e9di\u00e9s aux ordinateurs du bureau avec Fedora Workstation et Fedora KDE. Dans cet article, d\u00e9couvrez l'univers Fedora et trouvez peut-\u00eatre votre OS de demain.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/linux-mint/",
+            "title": "Linux Mint",
+            "content_html": "Linux Mint est un OS bas\u00e9 sur Debian et Ubuntu efficient : un syst\u00e8me simple, s\u00fbr et fiable, par et pour l'utilisateur. Dans cet article, d\u00e9couvrez Linux Mint, une approche int\u00e9ressante de ce que peut \u00eatre un OS.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/",
+            "url": "https://petoulemonde.github.io/blog/blog/2026/01/07/zorin-os/",
+            "title": "Zorin OS",
+            "content_html": "Zorin OS est une alternative \u00e0 Windows ou MacOS tournant sur Linux. Dans la m\u00eame veine que d'autres OS tournant sous linux, Zorin OS offre une interface tr\u00e8s proche de celle de Windows ou MacOS, pour proposer le meilleur cot\u00e9 techno de Linux avec le meilleur cot\u00e9 visuel de MacOS et Windows. Zorin OS a des atouts ind\u00e9niables, qui le font rivaliser avec les OS plus connus. Apprenez \u00e0 connaitre Zorin OS pour peut-\u00eatre d\u00e9couvrir votre OS de demain.",
+            "image": null,
+            "date_modified": "2026-01-07T00:00:00+00:00",
+            "date_published": "2026-01-07T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/tags/",
+            "url": "https://petoulemonde.github.io/blog/tags/",
+            "title": "Articles par tags",
+            "content_html": "Ensemble des pages du site & blog par tag",
+            "image": null,
+            "date_modified": "2026-01-04T00:00:00+01:00",
+            "date_published": "2026-01-04T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/",
+            "url": "https://petoulemonde.github.io/blog/coding/Cookiecutter-data-science%20-%20Un%20outil%20%F0%9F%90%8D%20pour%20structurer%20ses%20projets/",
+            "title": "Cookiecutter - Un outil \ud83d\udc0d pour structurer ses projets",
+            "content_html": "La structure de dossier d'un projet Python est un \u00e9l\u00e9ment important pour un projet p\u00e9renne, assurant lisibilit\u00e9 et r\u00e9utilisabilit\u00e9 du projet. D\u00e9couvrez Cookiecutter-data-science, un pacakge python qui propose une structure de dossier robuste et r\u00e9p\u00e9table dans tous vos projets.",
+            "image": null,
+            "date_modified": "2026-01-02T00:00:00+01:00",
+            "date_published": "2026-01-02T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/31/apache-superset---le-tableau-open-source/",
+            "title": "Apache Superset - Le Tableau open source",
+            "content_html": "D\u00e9couvrez Apache Superset, un projet open source et de niveau professionnel pour la business intelligence, alternative aux outils comme PowerBI ou Tableau",
+            "image": null,
+            "date_modified": "2025-12-31T00:00:00+00:00",
+            "date_published": "2025-12-31T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/",
+            "url": "https://petoulemonde.github.io/blog/blog/2025/12/31/devbox---pour-des-environnements-de-d%C3%A9veloppement-portable--isol%C3%A9/",
+            "title": "Devbox - Pour des environnements de d\u00e9veloppement portable & isol\u00e9",
+            "content_html": "La gestion d'environnements de d\u00e9veloppement est un pilier du d\u00e9veloppement. Beaucoup d'outils existent mais trouvent vite leur limites. Devbox est une alternative riche, qui pourrait bien modifier profond\u00e9ment le domaine des environnements virtuels.",
+            "image": null,
+            "date_modified": "2025-12-31T00:00:00+00:00",
+            "date_published": "2025-12-31T00:00:00+00:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/knowledge/",
+            "url": "https://petoulemonde.github.io/blog/knowledge/",
+            "title": "Mon livre Knowledge \ud83e\udde0",
+            "content_html": "Introduction du livre 'Gestion des connaissances \ud83e\udde0'",
+            "image": null,
+            "date_modified": "2025-12-24T00:00:00+01:00",
+            "date_published": "2025-12-24T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/knowledge/plan/",
+            "url": "https://petoulemonde.github.io/blog/knowledge/plan/",
+            "title": "Plan du livre \ud83d\uddfa\ufe0f",
+            "content_html": "Plan du livre 'Gestion des connaissances \ud83e\udde0",
+            "image": null,
+            "date_modified": "2025-12-24T00:00:00+01:00",
+            "date_published": "2025-12-24T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/coding/",
+            "url": "https://petoulemonde.github.io/blog/coding/",
+            "title": "Mon livre Informatique \ud83e\uddd1\u200d\ud83d\udcbb",
+            "content_html": "Introduction du livre Informatique \ud83e\uddd1\u200d\ud83d\udcbb",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/",
+            "url": "https://petoulemonde.github.io/blog/projet/",
+            "title": "Mon livre Projet \ud83d\udccb",
+            "content_html": "Introduction du livre Gestion de projet \ud83d\udccb",
+            "image": null,
+            "date_modified": "2026-01-09T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        },
+        {
+            "id": "https://petoulemonde.github.io/blog/projet/cloture/",
+            "url": "https://petoulemonde.github.io/blog/projet/cloture/",
+            "title": "Retour d'exp\u00e9rience",
+            "content_html": "Comprendre en quoi consiste l'\u00e9tape de retour d'exp\u00e9rience",
+            "image": null,
+            "date_modified": "2025-12-22T00:00:00+01:00",
+            "date_published": "2025-12-22T00:00:00+01:00",
+            "authors": [
+                {
+                    "name": "Pierre-Etienne Toulemonde"
+                }
+            ],
+            "tags": null
+        }
+    ]
+}
