@@ -1,0 +1,60 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 8 * * *"  # Tous les jours à 08:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material python-frontmatter
+
+      - name: Filter future posts
+        run: |
+          python <<EOF
+          import os
+          import datetime
+          import frontmatter
+
+          DOCS_DIR = "docs"
+          NOW = datetime.datetime.utcnow()
+
+          for root, _, files in os.walk(DOCS_DIR):
+              for file in files:
+                  if file.endswith(".md"):
+                      path = os.path.join(root, file)
+                      post = frontmatter.load(path)
+
+                      publish_date = post.get("publish_date")
+
+                      if publish_date:
+                          try:
+                              pub_date = datetime.datetime.fromisoformat(str(publish_date))
+                              if pub_date > NOW:
+                                  print(f"Excluding future post: {path}")
+                                  os.remove(path)
+                          except Exception as e:
+                              print(f"Error parsing date in {path}: {e}")
+          EOF
+
+      - name: Deploy to gh-pages
+        run: |
+          mkdocs gh-deploy --force --clean
